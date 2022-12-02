@@ -1,0 +1,7 @@
+BOSS #1
+A dangerous enemy that
+have four turrels, that
+player need to destroy 
+first to win him
+
+[NO OPTIONS]

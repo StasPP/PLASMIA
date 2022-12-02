@@ -1,0 +1,9 @@
+Img: tubeout1
+Index: 0
+Type: 56
+SizeX: 100
+SizeY: 50
+*wait
+*start
+*mirrorX
+*mirrorY

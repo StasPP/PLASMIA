@@ -1,0 +1,10 @@
+Img: lamp2
+Index: 0
+Type: 26
+/// 1 Tile 2 Object 3 Enemy 4 Player
+SizeX: 250
+SizeY: 250
+OffsetX: 35
+OffsetY: 35
+*Angle
+*Color

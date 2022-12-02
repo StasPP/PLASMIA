@@ -1,0 +1,12 @@
+BodyX: 0
+BodyY: 0
+Radius: 110
+TurnSpeed: 5
+MaxSpeed: 3
+MaxHealth: 140
+AIType: 2
+Shoottime: 2
+Cracks: 2
+Power: 6
+Rockets: n
+LowAnim: y

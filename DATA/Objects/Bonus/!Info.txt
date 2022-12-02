@@ -1,0 +1,1 @@
+ Commands:array[1..n] of String=('Tip: ','Img: ','Col: ','Name: ','Info: ','Time: ');

@@ -1,0 +1,8 @@
+Img: boss1
+Type: 3
+Index: 8
+/// 1 Tile 2 fon 3 Enemy 4 Player
+SizeX: 320
+SizeY: 320
+*Color
+*WeapColor

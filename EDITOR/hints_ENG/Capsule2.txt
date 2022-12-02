@@ -1,0 +1,7 @@
+Capsule #2
+Contains items/powerups
+ONLY for stoy mode 
+on easy level of difficulty
+
+*Item1..Item6 /STRING/ - item or powerup
+(for names of items and pu see Editor\help.txt)

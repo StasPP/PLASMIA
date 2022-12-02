@@ -1,0 +1,7 @@
+Laser button
+Switchs on/off lasers with 
+the same colour
+
+Color /Integer 1..7/ - colour
+Permanent /Integer 0..1/  - not perm./perm.
+TurnOn /Integer 0..1/ - Off/On

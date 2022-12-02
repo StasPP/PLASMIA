@@ -1,0 +1,10 @@
+Img: door3
+Index: 0
+Type: 17
+/// 1 Tile 2 Object 3 Enemy 4 Player
+SizeX: 200
+SizeY: 100
+Line: door1.loc
+Line: door2.loc
+OffsetX: -57
+*Color

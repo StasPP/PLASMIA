@@ -1,0 +1,95 @@
+PLASMIA MAP EDITOR v 1.0 HELP FILE
+----------------------------------------------------
+I. ENGLISH
+II. РУССКИЙ (RUSSIAN)
+----------------------------------------------------
+
+I. ENGLISH:
+
+1. Colors:
+  0 - empty
+  1 - Red
+  2 - Orange
+  3 - Yellow
+  4 - Green
+  5 - Sky blue
+  6 - Dark blue
+  7 - Violet
+  8 - White (for closed doors)
+
+
+2. Names and numbers of items and bonuses
+
+  Items:
+  1 - repair1 - repair set (small)
+  2 - telescope - telescope (normal)
+  3 - hispeed - accelerator
+  4 - mina - mines set
+  5 - rock - rockets set
+  6 - repair2 - big repair set
+  7 - rainbow - rainbow plasma
+  8 - antirock - antirocket shield
+  9 - boom - superbomb
+
+  Powerups (bonuses): 
+  10 - radar - Radar(MiniMap)
+  11 - dopslots - add 2 color slots 
+  12 - lakmus - color detector
+  13 - plasmup - 2x plasma damage
+  14 - droid - repair droid
+  15 - inf - infinity plasm
+
+  Additional items (w/o numbers):
+  superrock - big (100) rocket set (secret)
+  Superscope - long-acting telescope (secret)
+  hispeed2 - long-acting accelerator (secret)
+  
+  Additional bonuses (w/o numbers):
+  detect - color lamps sonar
+  
+----------------------------------------------------
+II. RUSSIAN:
+
+1. Цвета
+  0 - НЕТ ЦВЕТА
+  1 - Красный
+  2 - Оранжевый
+  3 - Жёлтый
+  4 - Зелёный
+  5 - Голубой
+  6 - Синий
+  7 - Фиолетовый
+  8 - Белый (для закрытых дверей)
+
+2. Номера и названия предметов, бонусов
+
+  Предметы
+  1 - repair1 - ремонтный набор, мал.
+  2 - telescope - телескоп
+  3 - hispeed - ускорение
+  4 - mina - мина
+  5 - rock - ракеты
+  6 - repair2 - ремонтный набор, большой
+  7 - rainbow - радужный плазмид
+  8 - antirock - противоракетный щит
+  9 - boom - супербомба
+
+  Бонусы: 
+  10 - radar - радар (мини-карта)
+  11 - dopslots - 2 доп. слота цветов
+  12 - lakmus - детектор цвета
+  13 - plasmup - усилитель плазмы
+  14 - droid - ремонтный дроид
+  15 - inf - бесконечная плазма
+
+  Предметы (без номеров):
+  superrock - 100 ракет (секретный)
+  Superscope - телескоп долгого действия (секретный)
+  hispeed2 - ускорение долгого действия (секретное)
+  
+  Бонусы (без номеров):
+  detect - цветовой сонар
+
+  
+  
+  

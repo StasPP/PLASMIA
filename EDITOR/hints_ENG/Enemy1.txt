@@ -1,0 +1,7 @@
+Enemy: BUG
+Very dangerous semi-boss. Has two different
+colours for himself and him weapon
+
+
+Color /Integer 1..7/ - vulnerability colour
+WeapColor /Integer 1..7/ - weapon colour

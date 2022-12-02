@@ -1,0 +1,2459 @@
+SizeX: 50
+SizeY: 50
+Name: 
+Author: 
+About: 
+Load: Boss1
+Load: Turrels
+Load: DopObjs2
+Load: DopObjs1
+//
+Name: border_01
+X: 600
+Y: 2700
+Z: -1
+//
+Name: border_01
+X: 600
+Y: 2400
+Z: -1
+//
+Name: border_01
+X: 600
+Y: 2100
+Z: -1
+//
+Name: border_01
+X: 600
+Y: 1800
+Z: -1
+//
+Name: d_corner_04
+X: 600
+Y: 1500
+Z: -1
+//
+Name: d_corner_02
+X: 600
+Y: 3300
+Z: -1
+//
+Name: f_corner_04
+X: 900
+Y: 1500
+Z: -1
+//
+Name: f_corner_01
+X: 900
+Y: 3400
+Z: -1
+//
+Name: border_01
+X: 900
+Y: 3600
+Z: -1
+//
+Name: border_01
+X: 900
+Y: 1200
+Z: -1
+//
+Name: d_corner_04
+X: 900
+Y: 900
+Z: -1
+//
+Name: border_04
+X: 1200
+Y: 900
+Z: -1
+//
+Name: f_corner_04
+X: 1500
+Y: 900
+Z: -1
+//
+Name: d_corner_04
+X: 1500
+Y: 600
+Z: -1
+//
+Name: d_corner_02
+X: 900
+Y: 3900
+Z: -1
+//
+Name: border_02
+X: 1200
+Y: 4000
+Z: -1
+//
+Name: f_corner_01
+X: 1500
+Y: 4000
+Z: -1
+//
+Name: d_corner_02
+X: 1500
+Y: 4200
+Z: -1
+//
+Name: border_01
+X: 600
+Y: 3000
+Z: -1
+//
+Name: d_corner_01
+X: 3300
+Y: 4200
+Z: -1
+//
+Name: d_corner_01
+X: 3900
+Y: 3900
+Z: -1
+//
+Name: border_02
+X: 3600
+Y: 4000
+Z: -1
+//
+Name: border_03
+X: 4000
+Y: 3600
+Z: -1
+//
+Name: f_corner_02
+X: 3400
+Y: 4000
+Z: -1
+//
+Name: f_corner_02
+X: 4000
+Y: 3400
+Z: -1
+//
+Name: border_02
+X: 2000
+Y: 4300
+Z: -1
+//
+Name: border_02
+X: 2800
+Y: 4300
+Z: -1
+//
+Name: corner_01
+X: 2300
+Y: 4300
+Z: -1
+//
+Name: corner_02
+X: 2700
+Y: 4300
+Z: -1
+//
+Name: border_03
+X: 2700
+Y: 4500
+Z: -1
+//
+Name: border_03
+X: 2700
+Y: 4800
+Z: -1
+//
+Name: border_01
+X: 2300
+Y: 4500
+Z: -1
+//
+Name: border_01
+X: 2300
+Y: 4800
+Z: -1
+//
+Name: door1
+X: 2443
+Y: 4400
+Z: 0
+Color: 8
+Count: 4
+//
+Name: d_corner_01
+X: 4200
+Y: 3300
+Z: -1
+//
+Name: border_03
+X: 4300
+Y: 3000
+Z: -1
+//
+Name: border_03
+X: 4300
+Y: 2700
+Z: -1
+//
+Name: border_03
+X: 4300
+Y: 2400
+Z: -1
+//
+Name: border_03
+X: 4300
+Y: 2100
+Z: -1
+//
+Name: border_03
+X: 4300
+Y: 1800
+Z: -1
+//
+Name: d_corner_03
+X: 4200
+Y: 1500
+Z: -1
+//
+Name: d_corner_03
+X: 3900
+Y: 900
+Z: -1
+//
+Name: d_corner_03
+X: 3300
+Y: 600
+Z: -1
+//
+Name: border_04
+X: 3600
+Y: 900
+Z: -1
+//
+Name: border_03
+X: 4000
+Y: 1200
+Z: -1
+//
+Name: f_corner_03
+X: 3400
+Y: 900
+Z: -1
+//
+Name: f_corner_03
+X: 4000
+Y: 1500
+Z: -1
+//
+Name: border_04
+X: 2800
+Y: 600
+Z: -1
+//
+Name: corner_03
+X: 2600
+Y: 600
+Z: -1
+//
+Name: corner_04
+X: 2200
+Y: 600
+Z: -1
+//
+Name: border_04
+X: 1900
+Y: 600
+Z: -1
+//
+Name: border_03
+X: 2600
+Y: 300
+Z: -1
+//
+Name: border_01
+X: 2200
+Y: 300
+Z: -1
+//
+Name: border_01
+X: 2200
+Y: 0
+Z: -1
+//
+Name: border_03
+X: 2600
+Y: 0
+Z: -1
+//
+Name: door1
+X: 2343
+Y: 500
+Z: 0
+Color: 8
+Count: 8
+//
+Name: Boss1
+X: 2400
+Y: 2400
+Z: 0
+Color: 0
+WeapColor: 0
+//
+Name: corner_02
+X: 1300
+Y: 1300
+Z: -1
+//
+Name: border_03
+X: 1300
+Y: 1500
+Z: -1
+//
+Name: border_02
+X: 1500
+Y: 1300
+Z: -1
+//
+Name: border_04
+X: 1500
+Y: 1800
+Z: -1
+//
+Name: corner_03
+X: 1300
+Y: 1800
+Z: -1
+//
+Name: corner_01
+X: 3600
+Y: 1300
+Z: -1
+//
+Name: border_02
+X: 3300
+Y: 1300
+Z: -1
+//
+Name: border_01
+X: 3600
+Y: 1500
+Z: -1
+//
+Name: corner_04
+X: 3600
+Y: 1800
+Z: -1
+//
+Name: border_04
+X: 3300
+Y: 1800
+Z: -1
+//
+Name: f_corner_04
+X: 1800
+Y: 1800
+Z: -1
+//
+Name: f_corner_03
+X: 3100
+Y: 1800
+Z: -1
+//
+Name: corner_03
+X: 1300
+Y: 3600
+Z: -1
+//
+Name: border_03
+X: 1300
+Y: 3300
+Z: -1
+//
+Name: border_04
+X: 1500
+Y: 3600
+Z: -1
+//
+Name: corner_02
+X: 1300
+Y: 3100
+Z: -1
+//
+Name: border_02
+X: 1500
+Y: 3100
+Z: -1
+//
+Name: corner_04
+X: 3600
+Y: 3600
+Z: -1
+//
+Name: border_04
+X: 3300
+Y: 3600
+Z: -1
+//
+Name: border_01
+X: 3600
+Y: 3300
+Z: -1
+//
+Name: corner_01
+X: 3600
+Y: 3100
+Z: -1
+//
+Name: border_02
+X: 3300
+Y: 3100
+Z: -1
+//
+Name: f_corner_01
+X: 1800
+Y: 3100
+Z: -1
+//
+Name: f_corner_02
+X: 3100
+Y: 3100
+Z: -1
+//
+Name: tile4
+X: 1500
+Y: 3300
+Z: -1
+//
+Name: tile4
+X: 3300
+Y: 3300
+Z: -1
+//
+Name: tile4
+X: 3300
+Y: 1500
+Z: -1
+//
+Name: tile4
+X: 1500
+Y: 1500
+Z: -1
+//
+Name: Fon1
+X: 1800
+Y: 2900
+Z: -5
+//
+Name: Fon1
+X: 2700
+Y: 2900
+Z: -5
+//
+Name: Fon1
+X: 2200
+Y: 2900
+Z: -5
+//
+Name: Fon1
+X: 2700
+Y: 2300
+Z: -5
+//
+Name: Fon1
+X: 2700
+Y: 1700
+Z: -5
+//
+Name: Fon1
+X: 1800
+Y: 2300
+Z: -5
+//
+Name: Fon1
+X: 1800
+Y: 1700
+Z: -5
+//
+Name: Fon1
+X: 2300
+Y: 1700
+Z: -5
+//
+Name: Fon1
+X: 2300
+Y: 2300
+Z: -5
+//
+Name: Fon3
+X: 1900
+Y: 3500
+Z: -5
+mirrorX: 0
+mirrorY: 0
+//
+Name: Fon3
+X: 2200
+Y: 3500
+Z: -5
+mirrorX: 0
+mirrorY: 0
+//
+Name: Fon3
+X: 2500
+Y: 3500
+Z: -5
+mirrorX: 0
+mirrorY: 0
+//
+Name: Fon3
+X: 2800
+Y: 3500
+Z: -5
+mirrorX: 0
+mirrorY: 0
+//
+Name: Fon3
+X: 3000
+Y: 3500
+Z: -5
+mirrorX: 0
+mirrorY: 0
+//
+Name: Fon2
+X: 3300
+Y: 2900
+Z: -5
+mirrorX: 0
+mirrorY: 0
+//
+Name: Fon2
+X: 3300
+Y: 2600
+Z: -5
+mirrorX: 0
+mirrorY: 0
+//
+Name: Fon2
+X: 3300
+Y: 2300
+Z: -5
+mirrorX: 0
+mirrorY: 0
+//
+Name: Fon2
+X: 3300
+Y: 2000
+Z: -5
+mirrorX: 0
+mirrorY: 0
+//
+Name: Fon2
+X: 3300
+Y: 1800
+Z: -5
+mirrorX: 0
+mirrorY: 0
+//
+Name: Fon2
+X: 1700
+Y: 3000
+Z: -5
+mirrorX: 1
+mirrorY: 0
+//
+Name: Fon2
+X: 1700
+Y: 2700
+Z: -5
+mirrorX: 1
+mirrorY: 0
+//
+Name: Fon2
+X: 1700
+Y: 2400
+Z: -5
+mirrorX: 1
+mirrorY: 0
+//
+Name: Fon2
+X: 1700
+Y: 2200
+Z: -5
+mirrorX: 1
+mirrorY: 0
+//
+Name: Fon2
+X: 1700
+Y: 1900
+Z: -5
+mirrorX: 1
+mirrorY: 0
+//
+Name: Fon3
+X: 1900
+Y: 1600
+Z: -5
+mirrorX: 0
+mirrorY: 1
+//
+Name: Fon3
+X: 2200
+Y: 1600
+Z: -5
+mirrorX: 0
+mirrorY: 1
+//
+Name: Fon3
+X: 2500
+Y: 1600
+Z: -5
+mirrorX: 0
+mirrorY: 1
+//
+Name: Fon3
+X: 2700
+Y: 1600
+Z: -5
+mirrorX: 0
+mirrorY: 1
+//
+Name: Fon3
+X: 3000
+Y: 1600
+Z: -5
+mirrorX: 0
+mirrorY: 1
+//
+Name: fx_light1
+X: 2000
+Y: 2000
+Z: -1
+Color: 0
+Animated: 0
+//
+Name: tile1
+X: 4500
+Y: 1500
+Z: -1
+//
+Name: tile1
+X: 4800
+Y: 1800
+Z: -1
+//
+Name: tile1
+X: 4800
+Y: 1200
+Z: -1
+//
+Name: tile1
+X: 4500
+Y: 900
+Z: -1
+//
+Name: tile1
+X: 4200
+Y: 600
+Z: -1
+//
+Name: tile1
+X: 3900
+Y: 300
+Z: -1
+//
+Name: tile1
+X: 3600
+Y: 0
+Z: -1
+//
+Name: tile1
+X: 3300
+Y: 300
+Z: -1
+//
+Name: tile1
+X: 3000
+Y: 0
+Z: -1
+//
+Name: tile1
+X: 2700
+Y: 300
+Z: -1
+//
+Name: tile1
+X: 4500
+Y: 300
+Z: -1
+//
+Name: tile1
+X: 4800
+Y: 0
+Z: -1
+//
+Name: tile1
+X: 4200
+Y: 0
+Z: -1
+//
+Name: tile1
+X: 3600
+Y: 600
+Z: -1
+//
+Name: tile1
+X: 1500
+Y: 300
+Z: -1
+//
+Name: tile1
+X: 1800
+Y: 0
+Z: -1
+//
+Name: tile1
+X: 2000
+Y: 300
+Z: -1
+//
+Name: tile1
+X: 1200
+Y: 0
+Z: -1
+//
+Name: tile1
+X: 900
+Y: 300
+Z: -1
+//
+Name: tile1
+X: 600
+Y: 0
+Z: -1
+//
+Name: tile1
+X: 300
+Y: 300
+Z: -1
+//
+Name: tile1
+X: 0
+Y: 600
+Z: -1
+//
+Name: tile1
+X: 600
+Y: 600
+Z: -1
+//
+Name: tile1
+X: 300
+Y: 900
+Z: -1
+//
+Name: tile1
+X: 300
+Y: 1500
+Z: -1
+//
+Name: tile1
+X: 0
+Y: 1200
+Z: -1
+//
+Name: tile1
+X: 0
+Y: 1800
+Z: -1
+//
+Name: tile1
+X: 300
+Y: 2100
+Z: -1
+//
+Name: tile1
+X: 0
+Y: 2400
+Z: -1
+//
+Name: tile1
+X: 300
+Y: 2700
+Z: -1
+//
+Name: tile1
+X: 0
+Y: 3000
+Z: -1
+//
+Name: tile1
+X: 300
+Y: 3300
+Z: -1
+//
+Name: tile1
+X: 0
+Y: 3600
+Z: -1
+//
+Name: tile1
+X: 600
+Y: 3600
+Z: -1
+//
+Name: tile1
+X: 300
+Y: 3900
+Z: -1
+//
+Name: tile1
+X: 600
+Y: 4200
+Z: -1
+//
+Name: tile1
+X: 900
+Y: 4500
+Z: -1
+//
+Name: tile1
+X: 1200
+Y: 4200
+Z: -1
+//
+Name: tile1
+X: 600
+Y: 4800
+Z: -1
+//
+Name: tile1
+X: 300
+Y: 4500
+Z: -1
+//
+Name: tile1
+X: 0
+Y: 4200
+Z: -1
+//
+Name: tile1
+X: 0
+Y: 4800
+Z: -1
+//
+Name: tile1
+X: 1200
+Y: 4800
+Z: -1
+//
+Name: tile2
+X: 1500
+Y: 4500
+Z: -1
+//
+Name: tile2
+X: 1800
+Y: 4800
+Z: -1
+//
+Name: tile2
+X: 2100
+Y: 4500
+Z: -1
+//
+Name: tile2
+X: 3300
+Y: 4500
+Z: -1
+//
+Name: tile2
+X: 3000
+Y: 4800
+Z: -1
+//
+Name: tile2
+X: 2800
+Y: 4500
+Z: -1
+//
+Name: tile2
+X: 3600
+Y: 4800
+Z: -1
+//
+Name: tile2
+X: 3900
+Y: 4500
+Z: -1
+//
+Name: tile2
+X: 3600
+Y: 4200
+Z: -1
+//
+Name: tile2
+X: 4200
+Y: 4200
+Z: -1
+//
+Name: tile2
+X: 4500
+Y: 3900
+Z: -1
+//
+Name: tile2
+X: 4800
+Y: 3600
+Z: -1
+//
+Name: tile2
+X: 4500
+Y: 3300
+Z: -1
+//
+Name: tile2
+X: 4800
+Y: 3000
+Z: -1
+//
+Name: tile2
+X: 4500
+Y: 2700
+Z: -1
+//
+Name: tile2
+X: 4800
+Y: 2400
+Z: -1
+//
+Name: tile2
+X: 4500
+Y: 2100
+Z: -1
+//
+Name: tile2
+X: 4200
+Y: 4800
+Z: -1
+//
+Name: tile2
+X: 4500
+Y: 4500
+Z: -1
+//
+Name: tile2
+X: 4800
+Y: 4200
+Z: -1
+//
+Name: tile2
+X: 4800
+Y: 4800
+Z: -1
+//
+Name: tile3
+X: 3000
+Y: 4500
+Z: -1
+//
+Name: tile3
+X: 2800
+Y: 4800
+Z: -1
+//
+Name: tile3
+X: 3300
+Y: 4800
+Z: -1
+//
+Name: tile3
+X: 3600
+Y: 4500
+Z: -1
+//
+Name: tile3
+X: 3900
+Y: 4800
+Z: -1
+//
+Name: tile3
+X: 3900
+Y: 4200
+Z: -1
+//
+Name: tile3
+X: 4200
+Y: 4500
+Z: -1
+//
+Name: tile3
+X: 4500
+Y: 4200
+Z: -1
+//
+Name: tile3
+X: 4500
+Y: 4800
+Z: -1
+//
+Name: tile3
+X: 4800
+Y: 4500
+Z: -1
+//
+Name: tile3
+X: 4800
+Y: 3900
+Z: -1
+//
+Name: tile3
+X: 4200
+Y: 3900
+Z: -1
+//
+Name: tile3
+X: 4500
+Y: 3600
+Z: -1
+//
+Name: tile3
+X: 4800
+Y: 3300
+Z: -1
+//
+Name: tile3
+X: 4800
+Y: 2700
+Z: -1
+//
+Name: tile3
+X: 4500
+Y: 3000
+Z: -1
+//
+Name: tile3
+X: 4500
+Y: 2400
+Z: -1
+//
+Name: tile3
+X: 4800
+Y: 2100
+Z: -1
+//
+Name: tile3
+X: 4500
+Y: 1800
+Z: -1
+//
+Name: tile3
+X: 4800
+Y: 1500
+Z: -1
+//
+Name: tile3
+X: 4200
+Y: 1200
+Z: -1
+//
+Name: tile3
+X: 4800
+Y: 600
+Z: -1
+//
+Name: tile3
+X: 2700
+Y: 0
+Z: -1
+//
+Name: tile3
+X: 3600
+Y: 300
+Z: -1
+//
+Name: tile3
+X: 4500
+Y: 0
+Z: -1
+//
+Name: tile3
+X: 4200
+Y: 300
+Z: -1
+//
+Name: tile3
+X: 4200
+Y: 900
+Z: -1
+//
+Name: tile3
+X: 300
+Y: 600
+Z: -1
+//
+Name: tile3
+X: 300
+Y: 1200
+Z: -1
+//
+Name: tile3
+X: 900
+Y: 600
+Z: -1
+//
+Name: tile3
+X: 600
+Y: 900
+Z: -1
+//
+Name: tile3
+X: 900
+Y: 0
+Z: -1
+//
+Name: tile3
+X: 1800
+Y: 300
+Z: -1
+//
+Name: tile3
+X: 1500
+Y: 0
+Z: -1
+//
+Name: tile3
+X: 0
+Y: 0
+Z: -1
+//
+Name: tile3
+X: 300
+Y: 1800
+Z: -1
+//
+Name: tile3
+X: 0
+Y: 2100
+Z: -1
+//
+Name: tile3
+X: 0
+Y: 2700
+Z: -1
+//
+Name: tile3
+X: 300
+Y: 3600
+Z: -1
+//
+Name: tile3
+X: 0
+Y: 3900
+Z: -1
+//
+Name: tile3
+X: 600
+Y: 3900
+Z: -1
+//
+Name: tile3
+X: 300
+Y: 4200
+Z: -1
+//
+Name: tile3
+X: 300
+Y: 4800
+Z: -1
+//
+Name: tile3
+X: 0
+Y: 4500
+Z: -1
+//
+Name: tile3
+X: 600
+Y: 4500
+Z: -1
+//
+Name: tile3
+X: 900
+Y: 4200
+Z: -1
+//
+Name: tile1
+X: 4200
+Y: 3600
+Z: -1
+//
+Name: tile1
+X: 1800
+Y: 4500
+Z: -1
+//
+Name: tile1
+X: 2100
+Y: 4800
+Z: -1
+//
+Name: tile1
+X: 1500
+Y: 4800
+Z: -1
+//
+Name: tile3
+X: 1200
+Y: 4500
+Z: -1
+//
+Name: tile3
+X: 900
+Y: 4800
+Z: -1
+//
+Name: tile2
+X: 300
+Y: 3000
+Z: -1
+//
+Name: tile2
+X: 0
+Y: 3300
+Z: -1
+//
+Name: tile2
+X: 300
+Y: 2400
+Z: -1
+//
+Name: tile2
+X: 0
+Y: 1500
+Z: -1
+//
+Name: tile2
+X: 600
+Y: 1200
+Z: -1
+//
+Name: tile2
+X: 0
+Y: 900
+Z: -1
+//
+Name: tile2
+X: 1200
+Y: 600
+Z: -1
+//
+Name: tile2
+X: 1200
+Y: 300
+Z: -1
+//
+Name: tile2
+X: 2000
+Y: 0
+Z: -1
+//
+Name: tile2
+X: 600
+Y: 300
+Z: -1
+//
+Name: tile2
+X: 300
+Y: 0
+Z: -1
+//
+Name: tile2
+X: 0
+Y: 300
+Z: -1
+//
+Name: tile2
+X: 3000
+Y: 300
+Z: -1
+//
+Name: tile2
+X: 3300
+Y: 0
+Z: -1
+//
+Name: tile2
+X: 3900
+Y: 0
+Z: -1
+//
+Name: tile2
+X: 3900
+Y: 600
+Z: -1
+//
+Name: tile2
+X: 4500
+Y: 600
+Z: -1
+//
+Name: tile2
+X: 4800
+Y: 300
+Z: -1
+//
+Name: tile2
+X: 4800
+Y: 900
+Z: -1
+//
+Name: tile2
+X: 4500
+Y: 1200
+Z: -1
+//
+Name: Fon1
+X: 2200
+Y: 0
+Z: -5
+//
+Name: Fon3
+X: 1500
+Y: 900
+Z: -5
+mirrorX: 0
+mirrorY: 0
+//
+Name: Fon3
+X: 1800
+Y: 900
+Z: -5
+mirrorX: 0
+mirrorY: 0
+//
+Name: Fon3
+X: 2100
+Y: 900
+Z: -5
+mirrorX: 0
+mirrorY: 0
+//
+Name: Fon3
+X: 2400
+Y: 900
+Z: -5
+mirrorX: 0
+mirrorY: 0
+//
+Name: Fon3
+X: 2700
+Y: 900
+Z: -5
+mirrorX: 0
+mirrorY: 0
+//
+Name: Fon3
+X: 3000
+Y: 900
+Z: -5
+mirrorX: 0
+mirrorY: 0
+//
+Name: Fon3
+X: 3300
+Y: 900
+Z: -5
+mirrorX: 0
+mirrorY: 0
+//
+Name: Fon3
+X: 1500
+Y: 4100
+Z: -5
+mirrorX: 0
+mirrorY: 1
+//
+Name: Fon3
+X: 1800
+Y: 4100
+Z: -5
+mirrorX: 0
+mirrorY: 1
+//
+Name: Fon3
+X: 2100
+Y: 4100
+Z: -5
+mirrorX: 0
+mirrorY: 1
+//
+Name: Fon3
+X: 2400
+Y: 4100
+Z: -5
+mirrorX: 0
+mirrorY: 1
+//
+Name: Fon3
+X: 2700
+Y: 4100
+Z: -5
+mirrorX: 0
+mirrorY: 1
+//
+Name: Fon3
+X: 3000
+Y: 4100
+Z: -5
+mirrorX: 0
+mirrorY: 1
+//
+Name: Fon3
+X: 3300
+Y: 4100
+Z: -5
+mirrorX: 0
+mirrorY: 1
+//
+Name: Fon1
+X: 1500
+Y: 4200
+Z: -5
+//
+Name: Fon1
+X: 2100
+Y: 4200
+Z: -5
+//
+Name: Fon1
+X: 2700
+Y: 4200
+Z: -5
+//
+Name: Fon1
+X: 3100
+Y: 4200
+Z: -5
+//
+Name: Fon1
+X: 2300
+Y: 4700
+Z: -5
+//
+Name: Fon1
+X: 1500
+Y: 300
+Z: -5
+//
+Name: Fon1
+X: 2000
+Y: 400
+Z: -5
+//
+Name: Fon1
+X: 2500
+Y: 400
+Z: -5
+//
+Name: Fon1
+X: 3100
+Y: 400
+Z: -5
+//
+Name: tconv1
+X: 500
+Y: 4100
+Z: 0
+MirrorY: 0
+Stop: 0
+//
+Name: tconv1
+X: 500
+Y: 4300
+Z: 0
+MirrorY: 0
+Stop: 0
+//
+Name: tconv1
+X: 500
+Y: 4500
+Z: 0
+MirrorY: 0
+Stop: 0
+//
+Name: tconv1
+X: 500
+Y: 4700
+Z: 0
+MirrorY: 0
+Stop: 0
+//
+Name: tconv1
+X: 500
+Y: 4900
+Z: 0
+MirrorY: 0
+Stop: 0
+//
+Name: tconv1
+X: 500
+Y: 3900
+Z: 0
+MirrorY: 0
+Stop: 0
+//
+Name: tconv1
+X: 500
+Y: 3700
+Z: 0
+MirrorY: 0
+Stop: 0
+//
+Name: tconv1
+X: 500
+Y: 3500
+Z: 0
+MirrorY: 0
+Stop: 0
+//
+Name: tconv1
+X: 500
+Y: 3300
+Z: 0
+MirrorY: 0
+Stop: 0
+//
+Name: tconv1
+X: 500
+Y: 3100
+Z: 0
+MirrorY: 0
+Stop: 0
+//
+Name: tconv1
+X: 500
+Y: 2900
+Z: 0
+MirrorY: 0
+Stop: 0
+//
+Name: tconv1
+X: 500
+Y: 2700
+Z: 0
+MirrorY: 0
+Stop: 0
+//
+Name: tconv1
+X: 500
+Y: 2500
+Z: 0
+MirrorY: 0
+Stop: 0
+//
+Name: tconv1
+X: 500
+Y: 2300
+Z: 0
+MirrorY: 0
+Stop: 0
+//
+Name: tconv1
+X: 500
+Y: 2100
+Z: 0
+MirrorY: 0
+Stop: 0
+//
+Name: tconv1
+X: 500
+Y: 1900
+Z: 0
+MirrorY: 0
+Stop: 0
+//
+Name: tconv1
+X: 500
+Y: 1700
+Z: 0
+MirrorY: 0
+Stop: 0
+//
+Name: tconv1
+X: 500
+Y: 1500
+Z: 0
+MirrorY: 0
+Stop: 0
+//
+Name: tconv1
+X: 500
+Y: 1300
+Z: 0
+MirrorY: 0
+Stop: 0
+//
+Name: tconv1
+X: 500
+Y: 1100
+Z: 0
+MirrorY: 0
+Stop: 0
+//
+Name: tconv1
+X: 500
+Y: 900
+Z: 0
+MirrorY: 0
+Stop: 0
+//
+Name: tconv1
+X: 500
+Y: 700
+Z: 0
+MirrorY: 0
+Stop: 0
+//
+Name: tconv1
+X: 500
+Y: 500
+Z: 0
+MirrorY: 0
+Stop: 0
+//
+Name: tconv1
+X: 500
+Y: 300
+Z: 0
+MirrorY: 0
+Stop: 0
+//
+Name: tconv1
+X: 500
+Y: 100
+Z: 0
+MirrorY: 0
+Stop: 0
+//
+Name: tconv1
+X: 500
+Y: -100
+Z: 0
+MirrorY: 0
+Stop: 0
+//
+Name: tconv1
+X: 4400
+Y: 3000
+Z: 0
+MirrorY: 1
+Stop: 0
+//
+Name: tconv1
+X: 4400
+Y: 3200
+Z: 0
+MirrorY: 1
+Stop: 0
+//
+Name: tconv1
+X: 4400
+Y: 3400
+Z: 0
+MirrorY: 1
+Stop: 0
+//
+Name: tconv1
+X: 4400
+Y: 3600
+Z: 0
+MirrorY: 1
+Stop: 0
+//
+Name: tconv1
+X: 4400
+Y: 3800
+Z: 0
+MirrorY: 1
+Stop: 0
+//
+Name: tconv1
+X: 4400
+Y: 4000
+Z: 0
+MirrorY: 1
+Stop: 0
+//
+Name: tconv1
+X: 4400
+Y: 4200
+Z: 0
+MirrorY: 1
+Stop: 0
+//
+Name: tconv1
+X: 4400
+Y: 4400
+Z: 0
+MirrorY: 1
+Stop: 0
+//
+Name: tconv1
+X: 4400
+Y: 4600
+Z: 0
+MirrorY: 1
+Stop: 0
+//
+Name: tconv1
+X: 4400
+Y: 4800
+Z: 0
+MirrorY: 1
+Stop: 0
+//
+Name: tconv1
+X: 4400
+Y: 5000
+Z: 0
+MirrorY: 1
+Stop: 0
+//
+Name: tconv1
+X: 4400
+Y: 2800
+Z: 0
+MirrorY: 1
+Stop: 0
+//
+Name: tconv1
+X: 4400
+Y: 2600
+Z: 0
+MirrorY: 1
+Stop: 0
+//
+Name: tconv1
+X: 4400
+Y: 2400
+Z: 0
+MirrorY: 1
+Stop: 0
+//
+Name: tconv1
+X: 4400
+Y: 2200
+Z: 0
+MirrorY: 1
+Stop: 0
+//
+Name: tconv1
+X: 4400
+Y: 2000
+Z: 0
+MirrorY: 1
+Stop: 0
+//
+Name: tconv1
+X: 4400
+Y: 1800
+Z: 0
+MirrorY: 1
+Stop: 0
+//
+Name: tconv1
+X: 4400
+Y: 1600
+Z: 0
+MirrorY: 1
+Stop: 0
+//
+Name: tconv1
+X: 4400
+Y: 1400
+Z: 0
+MirrorY: 1
+Stop: 0
+//
+Name: tconv1
+X: 4400
+Y: 1200
+Z: 0
+MirrorY: 1
+Stop: 0
+//
+Name: tconv1
+X: 4400
+Y: 1000
+Z: 0
+MirrorY: 1
+Stop: 0
+//
+Name: tconv1
+X: 4400
+Y: 800
+Z: 0
+MirrorY: 1
+Stop: 0
+//
+Name: tconv1
+X: 4400
+Y: 600
+Z: 0
+MirrorY: 1
+Stop: 0
+//
+Name: tconv1
+X: 4400
+Y: 400
+Z: 0
+MirrorY: 1
+Stop: 0
+//
+Name: tconv1
+X: 4400
+Y: 200
+Z: 0
+MirrorY: 1
+Stop: 0
+//
+Name: tconv1
+X: 4400
+Y: 0
+Z: 0
+MirrorY: 1
+Stop: 0
+//
+Name: rrbox
+X: 4495
+Y: 0
+Z: 6
+DistY: 5000
+DistX: 3725
+time: 5
+//
+Name: Playerstart
+X: 2400
+Y: 700
+Z: 0
+Testparam1: 0
+Testparam2: 0
+//
+Name: fx_light6
+X: 2900
+Y: 700
+Z: 10
+Color: 1
+Animated: 0
+//
+Name: fx_light6
+X: 1700
+Y: 700
+Z: 10
+Color: 4
+Animated: 0
+//
+Name: u_border_03
+X: 1800
+Y: 600
+Z: 0
+Color: 4
+//
+Name: u_border_03
+X: 3000
+Y: 600
+Z: 0
+Color: 1
+//
+Name: unlock3
+X: 3600
+Y: 1900
+Z: 0
+Color: 3
+Count: 0
+//
+Name: unlock1
+X: 3600
+Y: 3000
+Z: 0
+Color: 6
+Count: 0
+//
+Name: unlock1
+X: 1400
+Y: 3000
+Z: 0
+Color: 4
+Count: 0
+//
+Name: u_border_02
+X: 1800
+Y: 4300
+Z: 0
+Color: 6
+//
+Name: u_border_02
+X: 3000
+Y: 4300
+Z: 0
+Color: 3
+//
+Name: fx_light4
+X: 1700
+Y: 4120
+Z: 10
+Color: 6
+Animated: 0
+//
+Name: fx_light4
+X: 2900
+Y: 4120
+Z: 10
+Color: 3
+Animated: 0
+//
+Name: Capsule2
+X: 3900
+Y: 1100
+Z: 0
+Item1: mina
+Item2: hispeed
+Item3: 0
+Item4: 0
+Item5: 0
+Item6: 0
+//
+Name: end
+X: 2570
+Y: 4930
+Z: 5
+Width: 500
+Height: 200
+//
+Name: xarrow1
+X: 2270
+Y: 4400
+Z: 0
+Angle: 90
+//
+Name: xarrow2
+X: 2800
+Y: 4400
+Z: 0
+Angle: 270
+//
+Name: xarrow0
+X: 2435
+Y: 700
+Z: 0
+Angle: 90
+//
+Name: turrel1
+X: 1800
+Y: 3100
+Z: 0
+Color: 4
+//
+Name: turrel1
+X: 3100
+Y: 3100
+Z: 0
+Color: 6
+//
+Name: turrel1
+X: 3100
+Y: 1800
+Z: 0
+Color: 3
+//
+Name: turrel1
+X: 1800
+Y: 1800
+Z: 0
+Color: 1
+//
+Name: wMina2
+X: 1045
+Y: 1200
+Z: 0
+//
+Name: wMina2
+X: 1045
+Y: 1300
+Z: 0
+//
+Name: wMina2
+X: 1045
+Y: 3700
+Z: 0
+//
+Name: wMina2
+X: 1045
+Y: 3800
+Z: 0
+//
+Name: wMina3
+X: 1200
+Y: 1042
+Z: 0
+//
+Name: wMina3
+X: 1300
+Y: 1042
+Z: 0
+//
+Name: wMina3
+X: 3700
+Y: 1042
+Z: 0
+//
+Name: wMina3
+X: 3800
+Y: 1042
+Z: 0
+//
+Name: wMina4
+X: 4010
+Y: 1200
+Z: 0
+//
+Name: wMina4
+X: 4010
+Y: 1300
+Z: 0
+//
+Name: wMina4
+X: 4010
+Y: 3700
+Z: 0
+//
+Name: wMina4
+X: 4010
+Y: 3800
+Z: 0
+//
+Name: wMina1
+X: 3800
+Y: 4007
+Z: 0
+//
+Name: wMina1
+X: 3700
+Y: 4007
+Z: 0
+//
+Name: wMina1
+X: 1200
+Y: 4007
+Z: 0
+//
+Name: wMina1
+X: 1300
+Y: 4007
+Z: 0
+//
+Name: border_04
+X: 1800
+Y: 3600
+Z: -1
+//
+Name: border_04
+X: 2100
+Y: 3600
+Z: -1
+//
+Name: border_04
+X: 2400
+Y: 3600
+Z: -1
+//
+Name: border_04
+X: 2700
+Y: 3600
+Z: -1
+//
+Name: border_04
+X: 3000
+Y: 3600
+Z: -1
+//
+Name: d_corner_02
+X: 1800
+Y: 3300
+Z: -1
+//
+Name: d_corner_01
+X: 3000
+Y: 3300
+Z: -1
+//
+Name: border_02
+X: 2100
+Y: 3400
+Z: -1
+//
+Name: border_02
+X: 2400
+Y: 3400
+Z: -1
+//
+Name: border_02
+X: 2700
+Y: 3400
+Z: -1
+//
+Name: border_02
+X: 3000
+Y: 1300
+Z: -1
+//
+Name: border_02
+X: 2700
+Y: 1300
+Z: -1
+//
+Name: border_02
+X: 2400
+Y: 1300
+Z: -1
+//
+Name: border_02
+X: 2100
+Y: 1300
+Z: -1
+//
+Name: border_02
+X: 1800
+Y: 1300
+Z: -1
+//
+Name: d_corner_04
+X: 1800
+Y: 1500
+Z: -1
+//
+Name: d_corner_03
+X: 3000
+Y: 1500
+Z: -1
+//
+Name: border_04
+X: 2100
+Y: 1500
+Z: -1
+//
+Name: border_04
+X: 2400
+Y: 1500
+Z: -1
+//
+Name: border_04
+X: 2700
+Y: 1500
+Z: -1
+//
+Name: door5
+X: 1043
+Y: 1400
+Z: 0
+Color: 3
+Opened: 0
+//
+Name: door5
+X: 3743
+Y: 1400
+Z: 0
+Color: 1
+Opened: 0
+//
+Name: door5
+X: 3743
+Y: 3600
+Z: 0
+Color: 4
+Opened: 0
+//
+Name: door5
+X: 1043
+Y: 3600
+Z: 0
+Color: 6
+Opened: 0
+//
+Name: cache
+X: 2470
+Y: 3350
+Z: 0
+Angle: 270
+Opened: 0
+ObjTip: 4
+Contain: 3
+//
+Name: cache
+X: 3600
+Y: 1600
+Z: 0
+Angle: 0
+Opened: 0
+ObjTip: 4
+Contain: 2
+//
+Name: cache
+X: 3600
+Y: 3200
+Z: 0
+Angle: 0
+Opened: 0
+ObjTip: 4
+Contain: 2
+//
+Name: cache
+X: 1300
+Y: 1600
+Z: 0
+Angle: 180
+Opened: 0
+ObjTip: 4
+Contain: 1
+//
+Name: cache
+X: 1300
+Y: 3200
+Z: 0
+Angle: 180
+Opened: 0
+ObjTip: 4
+Contain: 6
+//
+Name: Mina
+X: 1100
+Y: 1100
+Z: 0
+//
+Name: Mina
+X: 1300
+Y: 1200
+Z: 0
+//
+Name: Mina
+X: 1200
+Y: 1300
+Z: 0
+//
+Name: Mina
+X: 3700
+Y: 1100
+Z: 0
+//
+Name: Mina
+X: 3900
+Y: 1200
+Z: 0
+//
+Name: Mina
+X: 3800
+Y: 1300
+Z: 0
+//
+Name: Mina
+X: 3900
+Y: 3900
+Z: 0
+//
+Name: Mina
+X: 3700
+Y: 3900
+Z: 0
+//
+Name: Mina
+X: 3800
+Y: 3700
+Z: 0
+//
+Name: Mina
+X: 1100
+Y: 3700
+Z: 0
+//
+Name: Mina
+X: 1300
+Y: 3800
+Z: 0
+//
+Name: Mina
+X: 1200
+Y: 3900
+Z: 0
+//
+Name: Mina
+X: 2200
+Y: 1800
+Z: 0
+//
+Name: Mina
+X: 2400
+Y: 1900
+Z: 0
+//
+Name: Mina
+X: 2700
+Y: 1700
+Z: 0
+//
+Name: Mina
+X: 3000
+Y: 2000
+Z: 0
+//
+Name: Mina
+X: 2100
+Y: 3100
+Z: 0
+//
+Name: Mina
+X: 2200
+Y: 3300
+Z: 0
+//
+Name: Mina
+X: 2600
+Y: 3000
+Z: 0
+//
+Name: Mina
+X: 2800
+Y: 3200
+Z: 0
+//
+Name: Mina
+X: 2500
+Y: 3200
+Z: 0
+//
+Name: Mina
+X: 3000
+Y: 3300
+Z: 0
+//
+Name: turrel2
+X: 2200
+Y: 4241
+Z: 0
+Color: 1
+//
+Name: turrel2
+X: 2800
+Y: 4241
+Z: 0
+Color: 1
+//
+Name: turrel4
+X: 2300
+Y: 3735
+Z: 0
+Color: 1
+//
+Name: turrel4
+X: 2700
+Y: 3735
+Z: 0
+Color: 1
+//
+Name: event
+X: 2500
+Y: 1000
+Z: 5
+Width: 400
+Height: 200
+Event: 211
+Count: 4
+//
+Name: event
+X: 4000
+Y: 3300
+Z: 5
+Width: 400
+Height: 200
+Event: 215
+Count: 2
+//
+Name: Enemy5
+X: 1600
+Y: 3800
+Z: 0
+//
+Name: Enemy5
+X: 1700
+Y: 4100
+Z: 0
+//
+Name: Enemy5
+X: 900
+Y: 3100
+Z: 0
+//
+Name: Enemy5
+X: 1000
+Y: 2000
+Z: 0
+//
+Name: Enemy4_4
+X: 1400
+Y: 2200
+Z: 0
+//
+Name: Enemy4_4
+X: 1400
+Y: 2700
+Z: 0
+//
+Name: Capsule2
+X: 800
+Y: 1700
+Z: 0
+Item1: repair4
+Item2: 0
+Item3: 0
+Item4: 0
+Item5: 0
+Item6: 0
+//
+Name: Capsule2
+X: 800
+Y: 3300
+Z: 0
+Item1: repair1
+Item2: 0
+Item3: 0
+Item4: 0
+Item5: 0
+Item6: 0
+//
+Name: plasmidbox
+X: 3000
+Y: 1700
+Z: 0
+Color: 1
+//
+Name: plasmidbox
+X: 2800
+Y: 1800
+Z: 0
+Color: 4
+//
+Name: plasmidbox
+X: 2000
+Y: 3300
+Z: 0
+Color: 1
+//
+Name: plasmidbox
+X: 2300
+Y: 3200
+Z: 0
+Color: 6
+//
+Name: plasmidbox
+X: 2000
+Y: 1700
+Z: 0
+Color: 3

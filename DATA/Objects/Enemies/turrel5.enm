@@ -1,0 +1,11 @@
+BodyX: 0
+BodyY: 0
+Radius: 50
+TurnSpeed: 2
+MaxSpeed: 1
+MaxHealth: 10
+AIType: 7
+EnmDopInt: 300
+Shoottime: 2
+Power: 5
+LowAnim: y

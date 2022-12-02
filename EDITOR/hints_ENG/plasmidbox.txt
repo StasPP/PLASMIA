@@ -1,0 +1,5 @@
+Box with plasmids
+
+
+Color /Integer 0..7/ - colour 
+      (0 - empty)

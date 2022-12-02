@@ -1,0 +1,7 @@
+Capsule
+Contains items/powerups
+
+
+
+*Item1..Item6 /STRING/ - item or powerup
+(for names of items and pu see Editor\help.txt)

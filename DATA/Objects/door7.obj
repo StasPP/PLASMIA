@@ -1,0 +1,11 @@
+Img: ndoor
+Index: 0
+Type: 31
+/// 1 Tile 2 Object 3 Enemy 4 Player
+SizeX: 200
+SizeY: 100
+Line: door5.loc
+Line: door6.loc
+OffsetX: -57
+*Color
+*Opened

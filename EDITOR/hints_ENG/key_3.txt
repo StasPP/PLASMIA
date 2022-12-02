@@ -1,0 +1,7 @@
+BUTTON
+Opens doors (kind 1) with the
+same colour in case of necessary
+number of buttons pushed.
+
+Color /Integer 1..7/ - colour
+Opened /Integer 0..1/ - off/pushed

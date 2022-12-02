@@ -1,0 +1,17 @@
+0.99a
+
+files:
+
+Game.exe
+Data\Maps\Level13.map
+Data\Maps\Level15.map
+DATA\Locs\3.bm_
+DATA\Locs\Smap3.loc
+DATA\Locs\Languages\RUS\Dial.txt
+
+fixed:
+
+- исправлен баг с битыми чекпоинтами на 15-м уровне;
+- исправлены застрявания на конвейере на уровне 13;
+- исправлен секретный уровень;
+- орфографические ошибки.

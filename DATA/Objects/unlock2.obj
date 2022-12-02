@@ -1,0 +1,11 @@
+Img: unlock2
+Index: 0
+Type: 6
+/// 1 Tile 2 Object 3 Enemy 4 Player
+SizeX: 200
+SizeY: 200
+*Color
+*Count
+Line: unlock2_1.loc
+Line: unlock2_2.loc
+Line: unlock2_3.loc

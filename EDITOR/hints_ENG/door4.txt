@@ -1,0 +1,6 @@
+Doors (kind 2)
+Opening by battery or laser
+power generators
+
+
+Color /Integer 1..8/ - colour

@@ -1,0 +1,6 @@
+Colour source
+Player can use this source to
+charge plasm with the same colour
+
+
+Color /Integer 1..7/  - colour

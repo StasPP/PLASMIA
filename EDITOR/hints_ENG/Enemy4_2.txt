@@ -1,0 +1,6 @@
+Enemy: Orange beetle
+Little bioship.
+Colour of vulnerability 
+and weapons is orange (2nd)
+
+[NO OPTIONS]

@@ -1,0 +1,11 @@
+Img: pbox2
+Index: 0
+Type: 23
+/// 1 Tile 2 Object 3 Enemy 4 Player
+SizeX: 200
+SizeY: 200
+OffsetX: -25
+OffsetY: -25
+*DistY
+*DistX
+*MustDie

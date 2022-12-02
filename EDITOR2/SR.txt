@@ -1,0 +1,5 @@
+Editor's system requiriments:
+
+CPU: 3 GHz or Core 2 Duo 2.2 GHz or higher
+RAM: 1 Gb+
+Video: 256 Mb (ATi RadeOn HD 3850 or better)

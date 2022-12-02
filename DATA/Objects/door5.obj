@@ -1,0 +1,10 @@
+Img: door5
+Index: 0
+Type: 22
+SizeX: 200
+SizeY: 100
+Line: door1.loc
+Line: door2.loc
+OffsetX: -57
+*Color
+*Opened

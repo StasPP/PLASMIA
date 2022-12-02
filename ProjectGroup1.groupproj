@@ -1,0 +1,40 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{816043b7-23de-4e28-b9f9-9f611daa5c9e}</ProjectGuid>
+  </PropertyGroup>
+  <ItemGroup />
+  <ItemGroup />
+  <ProjectExtensions>
+    <Borland.Personality>Default.Personality</Borland.Personality>
+    <Borland.ProjectType />
+    <BorlandProject>
+  <BorlandProject xmlns=""> <Default.Personality> </Default.Personality> </BorlandProject></BorlandProject>
+  </ProjectExtensions>
+  <Target Name="Game">
+    <MSBuild Projects="Game.dproj" Targets="" />
+  </Target>
+  <Target Name="Game:Clean">
+    <MSBuild Projects="Game.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="Game:Make">
+    <MSBuild Projects="Game.dproj" Targets="Make" />
+  </Target>
+  <Target Name="EDITOR">
+    <MSBuild Projects="EDITOR\EDITOR.dproj" Targets="" />
+  </Target>
+  <Target Name="EDITOR:Clean">
+    <MSBuild Projects="EDITOR\EDITOR.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="EDITOR:Make">
+    <MSBuild Projects="EDITOR\EDITOR.dproj" Targets="Make" />
+  </Target>
+  <Target Name="Build">
+    <CallTarget Targets="Game;EDITOR" />
+  </Target>
+  <Target Name="Clean">
+    <CallTarget Targets="Game:Clean;EDITOR:Clean" />
+  </Target>
+  <Target Name="Make">
+    <CallTarget Targets="Game:Make;EDITOR:Make" />
+  </Target>
+</Project>

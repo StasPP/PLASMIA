@@ -1,0 +1,6 @@
+Enemy: Green beetle
+Little bioship.
+Colour of vulnerability 
+and weapons is green (4th)
+
+[NO OPTIONS]

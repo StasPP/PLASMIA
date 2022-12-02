@@ -1,0 +1,7 @@
+SCRIPT: ARCADE
+Makes an arcade level
+
+(Player will have five colours from
+start and 7-minutes timer)
+
+[NO OPTIONS]

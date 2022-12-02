@@ -1,0 +1,9 @@
+BORDER
+Walls of the map. Player
+can't go through that
+
+
+
+[NO OPTIONS]
+
+

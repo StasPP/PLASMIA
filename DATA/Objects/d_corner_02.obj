@@ -1,0 +1,9 @@
+Img: border_11
+Index: 0
+Type: 1
+/// 1 Tile 2 Object 3 Enemy 4 Player
+SizeX: 300
+SizeY: 300
+Line: dcorner2_1.loc
+Line: dcorner2_2.loc
+Free: 2

@@ -1,0 +1,8 @@
+Img: border_9
+Index: 0
+Type: 1
+/// 1 Tile 2 Object 3 Enemy 4 Player
+SizeX: 200
+SizeY: 200
+Line: corner4_1.loc
+Line: corner4_2.loc

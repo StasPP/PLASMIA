@@ -1,0 +1,7 @@
+Barrier
+Can be destoyed by plasma
+with the same colourS with it
+
+
+Color /Integer 1..8/ - colour
+Opened /Integer 0..1/ - closed/opened

@@ -1,0 +1,218 @@
+Hint: Spaceship Movement
+
+Use #m2  to move the ship in the 
+direction of the cursor. Ship won't stop
+moving until you release the button.
+Use inertion for better manoeuvring! 
+
+Hint: Plasma
+
+If you want to charge your plasmagun,
+you must stand near a charger.
+Your ship uses plasma as an ammo. 
+Press #m1  to shoot.
+
+Hint: Buttons
+
+Buttons are used to open doors.
+Button's color corresponds with a color
+of a door that it will open. Fly up to the
+button and click #m4  for activate it.
+ 
+Hint: Doors and Ligths
+
+Some doors are blocked by two or 
+more buttons. You can estimate their 
+quantity and colous by lights on the door.
+ 
+ 
+Hint: Boxes
+
+Boxes may contain items and powerups!
+Fly up to a box and click #m4  
+on it to pick it up. It will
+automatically open your inventory.
+
+Hint: Inventory
+
+1) Logs 2) Ship's condition 3) Plasma
+4) on-board powerups [permanent]
+5) on-board items [for manual use] 
+6) items/powerups outside
+use #m5  to pick up or drop items/powerups. 
+Hint: Repair Box
+
+Repair boxes are a kind of items.
+Use it to restore your ship, using keys 
+that correspond to it's inventory slot.
+To use items, press: #k3 #k4 #k5 #k6.
+
+Hint: Colors
+
+Plasma can be of one of seven colors:
+red, orange, yellow, green, cyan, blue, 
+and violet. Use color holders to unlock 
+these color. To charge plasma, change your
+current color to a color of the charger.
+Hint: Color Inventory
+
+Click #m5  to pick up a plasma color from
+the holder and drag it into the color slot. 
+If you have no free slots you can drop 
+any useless colors into the holder
+to come back later for it, if needed.
+Hint: Enemy Colors
+
+Enemies are only damaged by plasma 
+of it's own color. You can change
+current color of your plasmagun
+by using mousewheel or keys: #k1 #k2 #ks
+
+Hint: Color Barriers
+
+Color barriers can be destroyed by 
+plasma of it's own color. 
+Sometimes you'll need to find this 
+color first.
+ 
+Hint: Batteries
+
+Batteries are used to open special
+doors. Fly up to battery and
+click #m4  on it to pick it up.
+Click again or use #m3  to throw it.
+
+Hint: Generators
+
+Electric doors are opened by generators.
+Generators can be activated by putting
+battery in them. Battery can be taken back
+and then the generator will be deactivated. 
+One battery can be used for many generators.
+Hint: Dual Buttons
+
+Dual buttons allow you to choose one of 
+two colors to open doors of the same color.
+Click #m4  to switch one of those buttons on
+and click it again to change the color.
+
+Hint: Store Terminals
+
+You can buy items and powerups 
+at store terminals. Fly up and
+click #m4  to open the terminal's menu. 
+Click #m5  on powerups or items
+in terminal's menu to buy them.
+Hint: Plasmids
+
+Plasmids that are contained in special
+boxes give you one plasma charge of it's
+color. You can break those boxes to collect
+plasmids or take them to use as a weapon.
+Some boxes may be empty.
+Hint: Color Locks
+
+Some doors have color locks.
+You can unlock such doors by putting  
+plasma of it's color in the door's
+color slot. The color can't be taken
+back from it!
+Hint: Shields
+
+Plasma shields make you invulnerable
+to enemy bullets of the same color.
+Shield can't protect you from mines,
+rockets, and explosions.
+
+Hint: Lasers
+
+Lasers are used to protect the station,
+but they can be used for other purposes.
+You can't go through them without a
+shield of the same color. Some lasers
+can be turned off with a button.
+Hint: Mirrors
+
+Mirrors change the direction of a
+laser. Some mirrors can be turned.  
+To turn them, fly up and click #m4 
+As a result you may clear the way or
+block yourself from dangerous enemies!
+Hint: Minimap Terminals
+
+Minimap terminals show you
+a map of the level with doors,
+buttons and other objects.
+Fly up and click #m4  to use it.
+
+Hint: Laser Generators
+
+The second way to open electrшс doors 
+is to use laser generators. 
+Direct the laser of the door's color 
+to laser generator to open it.
+
+Hint: Telescope
+
+Telescope is one of the basic items.
+Use it to zoom out the view
+by pressing key that corresponds to 
+inventory slot with telescope.
+Item keys: #k3 #k4 #k5 #k6 
+Hint: Color Sonar
+
+This powerup shows the colors of the nearest
+enemies. You can use it to better prepare
+for upcoming battle by getting all the
+colors you need to defeat those enemies. 
+
+Hint: Color Detector
+
+This powerup changes the game's tactics:
+with it the color of you plasma is
+automatically changed when you point at
+an enemy, barrier, or charger of a different
+color to match the color of that object.
+Hint: Laser switch
+
+Lasers can be turned off by special
+laser buttons. These buttons can
+be permanent or temporary,
+that stay on for a few seconds.
+
+Hint: Through the Lasers
+
+You can fly through the lasers
+if you have a plasmashield of 
+the same color.
+ 
+
+Hint: Lockers
+
+Lockers may contain batteries or boxes 
+with items, powerups or plasmids.
+To open a locker you must 
+fly up and click #m4 .
+Some lockers are empty.
+Hint: Keys
+
+You can redefine keys in the Settings.
+Keys for items in the inventory: #k3 #k4 #k5 #k6 
+(for 1st, 2nd, 3rd and 4th item on the figure)
+To change the current color use: #k1 #k2 #ks 
+By the way: press #kb to hide the dialog.
+Hint: Hot keys
+
+Hotkeys are used to change global settings.
+Windowed/fullscreen mode: #ka + #ke
+Press #kf to maximize/restore the window.
+Press #kh to minimize it.
+Press #kx to quickly exit the game. 
+
+
+
+
+
+
+
+

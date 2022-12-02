@@ -1,0 +1,6 @@
+Enemy: Heavy rebel ship
+Very slow. In case o fexplosion 
+launchs his cockpit module as kamikaze
+
+
+Color /Integer 1..7/ - colour

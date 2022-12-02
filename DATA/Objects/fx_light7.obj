@@ -1,0 +1,10 @@
+Img: fxlight7
+Index: 0
+Type: 70
+/// 1 Tile 2 Object 3 Enemy 4 Player
+SizeX: 512
+SizeY: 256
+OffsetZ: 10
+OffsetX: 20
+*Color
+*Animated

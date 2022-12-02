@@ -1,0 +1,6 @@
+Store
+Here can be bought some items
+and powerups (3 to 15 depend 
+on store's level)
+   
+Level /Integer 0..5/ - store's level

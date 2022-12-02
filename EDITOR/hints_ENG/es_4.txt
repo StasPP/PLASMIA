@@ -1,0 +1,7 @@
+Colour generator
+Opens doors (kind 2) with the same colour
+in case of battery mounted in it. Battery can be
+set out.
+
+Color /Integer 1..8/ - colour
+Opened /Integer 0..1/ - No battery/Battery mounted

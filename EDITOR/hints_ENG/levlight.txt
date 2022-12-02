@@ -1,0 +1,6 @@
+SCRIPT: Colour filter
+Makes level brighter
+Permanent
+
+
+[NO OPTIONS]

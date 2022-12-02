@@ -1,0 +1,18 @@
+Plasmia Updating Tool
+Game Path:
+Refresh Update list
+Install
+Updates source: 
+Updates Install
+Select the game directory
+Connecting...
+Size of current file: 
+Connection error. Download failed.
+Succesfully done.
+Stoped by user
+List loading error!
+Update is already intalled. Will You ReInstall it again?
+Done! Files unpacked: 
+STOP!
+Select this directory
+Critical Error! Connection is broken!

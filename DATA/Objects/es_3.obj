@@ -1,0 +1,9 @@
+Img: es_3
+Index: 0
+Type: 19
+/// 1 Tile 2 Object 3 Enemy 4 Player
+SizeX: 200
+SizeY: 300
+Line: right1.loc
+*color
+*Opened

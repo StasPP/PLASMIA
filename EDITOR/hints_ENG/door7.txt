@@ -1,0 +1,7 @@
+Doors (kind 3)
+Opening by putting of a plasma
+with the same colour. Player loose 
+this colour in case of put it.
+
+Color /Integer 1..8/ - colour
+Opened /Integer 0..1/ - closed/opened

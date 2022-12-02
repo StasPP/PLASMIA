@@ -1,0 +1,6 @@
+Enemy: violet beetle
+Little bioship.
+Colour of vulnerability 
+and weapons is violet (7th)
+
+[NO OPTIONS]

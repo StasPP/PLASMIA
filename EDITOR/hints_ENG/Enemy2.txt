@@ -1,0 +1,6 @@
+Enemy: Bird
+Has invulnerability to rockets.
+Colour of vulnerability 
+and weapons is blue (5th)
+
+[NO OPTIONS]

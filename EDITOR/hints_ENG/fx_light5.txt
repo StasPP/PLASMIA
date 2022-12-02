@@ -1,0 +1,6 @@
+Light source
+ 
+
+
+
+Color /Integer 1..8/ - colour

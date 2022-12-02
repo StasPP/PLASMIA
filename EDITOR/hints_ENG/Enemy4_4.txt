@@ -1,0 +1,6 @@
+Enemy: Red beetle
+Little bioship.
+Colour of vulnerability 
+and weapons is red (1st)
+
+[NO OPTIONS]

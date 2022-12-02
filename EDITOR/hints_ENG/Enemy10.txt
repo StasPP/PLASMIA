@@ -1,0 +1,5 @@
+Enemy: Kamikaze cockpit
+Heavy rebel ship's cockpit module.
+
+
+Color /Integer 1..7/ - vulnerability colour

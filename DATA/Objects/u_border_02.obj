@@ -1,0 +1,8 @@
+Img: u_border1
+Index: 0
+Type: 7
+/// 1 Tile 2 Object 3 Enemy 4 Player
+SizeX: 300
+SizeY: 200
+Line: down1.loc
+*Color

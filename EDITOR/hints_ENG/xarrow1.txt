@@ -1,0 +1,5 @@
+Decor object
+
+
+
+*Angle /Integer 0..360/ - clockwise angle (deg)

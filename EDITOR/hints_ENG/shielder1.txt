@@ -1,0 +1,7 @@
+Colour shield charger
+Shield gaves to player
+invulnerability to it's colour
+and ability to go through lasers
+
+   
+Color /Integer 1..7/ - colour  

@@ -1,0 +1,6 @@
+Colour cache
+Here player can take plasm colour 
+
+
+Color /Integer 1..7/ - colour
+Count /Integer 0..35/ - plasm colour

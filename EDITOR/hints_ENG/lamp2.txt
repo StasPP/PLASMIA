@@ -1,0 +1,7 @@
+Lamp (decor)
+
+
+
+
+Angle /Integer 0..360/ - clockwise angle (degs)
+Color /Integer 1..7/ - colour

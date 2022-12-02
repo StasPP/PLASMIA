@@ -1,0 +1,8 @@
+BOSS #2
+A very dangerous guy.
+Can be killed after 
+attacks by lasers 
+(colours 7 down to 2)
+
+
+[NO OPTIONS]

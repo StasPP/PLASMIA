@@ -1,0 +1,14 @@
+Color detector
+Chooses plasma color to match selected enemy 
+Radar
+Shows minimap to locate enemies
+Repair Droid
+Repairs 2% per second
+Infinite plasma
+Never-ending plasma
+Improved Plasmagun
+Doubles plasma damage
+Color reserve
+Two additional color slots 
+Color sonar
+Shows color of nearby enemies

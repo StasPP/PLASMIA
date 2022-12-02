@@ -1,0 +1,8 @@
+Cache
+Can contain some items* or objects
+(*for items' numbers see Editor\help.txt)
+Angle /Integer 0..359/ - angle
+Opened /Integer 0,1/ - 0 - CLOSED, 1 - ALREADY OPENED
+ObjTip /Integer 1..5/ - content type ( 1 - battery,
+2 - plasmid box, 3 - message  4 - item/powerup 5 - bomb)
+Contain /Integer 1..N/ - colour (0..7), message ¹, item ¹*

@@ -1,0 +1,7 @@
+Enemy: Dragonfly
+Large size ship. Armed with
+random-coloured plasma-balls
+that reflect by walls
+
+Color /Integer 1..7/ - vulnerability colour
+

@@ -1,0 +1,6 @@
+Enemy: Butterfly
+Very dangerous rebel ship. 
+Armed both with plasm and rockets
+His colour is navy blue (6th)
+
+[NO OPTIONS]

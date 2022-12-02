@@ -1,0 +1,6 @@
+Laser generator
+Acting as generator when
+laser directed on it
+(colour the same with the laser)
+
+[NO OPTIONS]

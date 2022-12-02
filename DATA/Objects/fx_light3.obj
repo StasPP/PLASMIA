@@ -1,0 +1,8 @@
+Img: fxlight3
+Index: 0
+Type: 70
+/// 1 Tile 2 Object 3 Enemy 4 Player
+SizeX: 512
+SizeY: 512
+*Color
+*Animated

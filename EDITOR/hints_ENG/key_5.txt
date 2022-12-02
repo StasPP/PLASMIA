@@ -1,0 +1,7 @@
+DOUBLE BUTTON
+Opens doors (kind 1) with the
+same colour. There is one colour
+can be choosed
+
+Color1,2 /Integer 1..7/ - colours
+Opened /Integer 0..2/ - off/col1./col.2

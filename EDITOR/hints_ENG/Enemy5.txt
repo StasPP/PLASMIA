@@ -1,0 +1,6 @@
+Enemy: Kamikaze beetle
+Little kamikaze bioship.
+Can be destoyed by red colour (1st)
+
+
+[NO OPTIONS]

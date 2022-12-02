@@ -1,0 +1,7 @@
+Doors (kind 1)
+Opening by colour buttons
+
+
+Color /Integer 1..8/ - colour
+Count /Integer 0..4/ - number of buttons
+      that is necessary to turn on for open

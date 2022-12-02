@@ -1,0 +1,8 @@
+BOSS #1 Turrel
+
+[Object is a part of
+Boss #1 and it's
+create automatically]
+
+Do not left in on map!
+Delete it!

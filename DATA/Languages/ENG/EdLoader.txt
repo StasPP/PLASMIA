@@ -1,0 +1,4 @@
+Launch Editor
+VSync
+Show Background
+Map Editor Settings

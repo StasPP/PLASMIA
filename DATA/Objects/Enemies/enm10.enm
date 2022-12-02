@@ -1,0 +1,10 @@
+BodyX: 0
+BodyY: 0
+Radius: 55
+TurnSpeed: 6
+MaxSpeed: 5
+MaxHealth: 20
+AIType: 3
+Shoottime: 2
+Cracks: 0
+LowAnim: y

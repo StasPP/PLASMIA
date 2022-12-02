@@ -1,0 +1,25 @@
+Large Repair Set
+Remaining:
+Telescope
+Zooms out a view area
+Repair Set
+Fast ship repair
+Rockets
+Pack of homing missiles
+Portable Mine
+Delayed-action mines
+Accelerator
+Increases ship's speed
+Rainbow Plasma
+Bullets can take any colour
+Rocket Deflector
+Stops enemies' rockets
+Magnetic Bomb
+Big circular explosion
+[Secret] Repair Set
+Repairs the ship
+[Secret] Rockets
+Homing Missile Megapack
+[Secret] Telescope
+[Secret] Accelerator
+Mini Repair Set

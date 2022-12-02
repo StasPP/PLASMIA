@@ -1,0 +1,6 @@
+Secret area
+
+
+Zone size:
+Width - /Integer 1..10000/
+Height - /Integer 1..10000/

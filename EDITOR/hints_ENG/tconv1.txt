@@ -1,0 +1,5 @@
+Konveyor
+
+
+MirrorY /Integer 0..1/ - reflect image on Y (no/yes)
+Stop  /Integer 0..1/ - animated/not animated

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<PersonalityInfo>
+		<Option>
+			<Option Name="Personality">Default.Personality</Option>
+			<Option Name="ProjectType"></Option>
+			<Option Name="Version">1.0</Option>
+			<Option Name="GUID">{FE76BE90-8521-48CD-9AA4-37CB44C9EB21}</Option>
+		</Option>
+	</PersonalityInfo>
+	<Default.Personality>  <Projects>
+      <Projects Name="AsphyreAsphyrePackage.bpl.1.0">AsphyrePackage.bdsproj</Projects>
+      <Projects Name="AsphyreAudiere.bpl">AsphyreAudiere.bdsproj</Projects>
+      <Projects Name="AsphyreBass.bpl">AsphyreBass.bdsproj</Projects>
+      <Projects Name="Targets">AsphyreAsphyrePackage.bpl.1.0 AsphyreAudiere.bpl AsphyreBass.bpl</Projects>
+    </Projects>
+    <Dependencies/>
+  </Default.Personality>
+	<StarTeamAssociation></StarTeamAssociation>
+	<StarTeamNonRelativeFiles></StarTeamNonRelativeFiles>
+</BorlandProject>

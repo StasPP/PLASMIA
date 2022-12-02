@@ -1,0 +1,8 @@
+Img: fon2
+Index: 0
+Type: 2
+/// 1 Tile 2 fon 3 Enemy 4 Player
+SizeX: 150
+SizeY: 300
+*mirrorX
+*mirrorY

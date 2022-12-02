@@ -1,0 +1,234 @@
+Проверка работы Updater (файл Test.txt)
+Updater Test
+http://plasmia.awardspace.info/test.txt
+Test.txt
+1
+Рeдактор карт v. 0.90
+Plasmia Map Editor v.0.90
+http://plasmia.awardspace.info/Files/Editor.zi_
+editor.zip
+2<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" /> 
+<meta name='yandex-verification' content='745b32a86c319e13' />
+<title>Способы оплаты</title> 
+<style>
+html, body {
+	margin:0;
+	padding:0;
+	height:100%;
+	}	
+.pay-link{
+	background:url('pay.gif') left top no-repeat;
+	width:184px;
+	height:24px;
+	display:block;
+	}	
+.pay-link:hover{
+	background-position:left -24px;
+	}	
+.promise-pay{
+	background:url('promise_pay.jpg') left top no-repeat;
+	width:412px;
+	height:135px;
+	display:block;
+	margin-bottom:38px;
+	}	
+.promise-pay:hover{
+	background-position:left -135px;
+	}		
+.promise-pay, .pay-link, .block-inet{
+	margin-left:auto;
+	margin-right:auto;
+	display:block;
+	}
+.block-inet{
+	margin-bottom:45px;
+	}
+.center-content{
+	width:990px;
+	margin:0px auto 0 auto;
+	padding-bottom:675px;
+	padding-top:52px;
+	position:relative;
+	}
+.footer, .gradient-footer{
+	position:absolute;
+	bottom:0px;
+	height:675px;
+	width:100%;
+	background:url('background.jpg') center bottom no-repeat;
+	}
+.gradient-footer{
+	background:url('gradient.jpg') left bottom repeat-x !important;
+	}
+.main{
+	width:100%;
+	min-height:100%;
+	position:relative;
+	background:#fafafa;
+	}	
+.logo{
+	position:absolute;
+	display:block;
+	left:0;
+	top:30px
+	}	
+</style>
+</head>
+<body>
+
+	<div class="main">
+	<div class="center-content">
+		<img src="logo.gif" alt="Сибирские Сети" class="logo" />
+		<img src="block.gif" alt="У вас заблокирован интернет" class="block-inet" />
+		<a href="http://sibset.ru/help/pay/51/" class="promise-pay">
+			
+		</a>
+		<a href="http://sibset.ru/help/pay/" class="pay-link">
+			
+		</a>
+		
+	</div>
+	<div class="gradient-footer"></div>
+	<div class="footer"></div>
+	</div>
+<!-- Yandex.Metrika counter -->
+<div style="display:none;">
+<script type="text/javascript">
+(function(w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter505205 = new Ya.Metrika({id:505205,
+                    clickmap:true});
+        }
+       catch(e) { }
+    });
+})(window, 'yandex_metrika_callbacks');
+</script>
+</div>
+<script src="//mc.yandex.ru/metrika/watch_visor.js" type="text/javascript" defer="defer"></script>
+<noscript><div><img src="//mc.yandex.ru/watch/505205" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<!--LiveInternet counter--><script type="text/javascript"><!--
+new Image().src = "//counter.yadro.ru/hit;211ru?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random();//--></script><!--/LiveInternet-->
+
+</body>
+</html><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" /> 
+<meta name='yandex-verification' content='745b32a86c319e13' />
+<title>Способы оплаты</title> 
+<style>
+html, body {
+	margin:0;
+	padding:0;
+	height:100%;
+	}	
+.pay-link{
+	background:url('pay.gif') left top no-repeat;
+	width:184px;
+	height:24px;
+	display:block;
+	}	
+.pay-link:hover{
+	background-position:left -24px;
+	}	
+.promise-pay{
+	background:url('promise_pay.jpg') left top no-repeat;
+	width:412px;
+	height:135px;
+	display:block;
+	margin-bottom:38px;
+	}	
+.promise-pay:hover{
+	background-position:left -135px;
+	}		
+.promise-pay, .pay-link, .block-inet{
+	margin-left:auto;
+	margin-right:auto;
+	display:block;
+	}
+.block-inet{
+	margin-bottom:45px;
+	}
+.center-content{
+	width:990px;
+	margin:0px auto 0 auto;
+	padding-bottom:675px;
+	padding-top:52px;
+	position:relative;
+	}
+.footer, .gradient-footer{
+	position:absolute;
+	bottom:0px;
+	height:675px;
+	width:100%;
+	background:url('background.jpg') center bottom no-repeat;
+	}
+.gradient-footer{
+	background:url('gradient.jpg') left bottom repeat-x !important;
+	}
+.main{
+	width:100%;
+	min-height:100%;
+	position:relative;
+	background:#fafafa;
+	}	
+.logo{
+	position:absolute;
+	display:block;
+	left:0;
+	top:30px
+	}	
+</style>
+</head>
+<body>
+
+	<div class="main">
+	<div class="center-content">
+		<img src="logo.gif" alt="Сибирские Сети" class="logo" />
+		<img src="block.gif" alt="У вас заблокирован интернет" class="block-inet" />
+		<a href="http://sibset.ru/help/pay/51/" class="promise-pay">
+			
+		</a>
+		<a href="http://sibset.ru/help/pay/" class="pay-link">
+			
+		</a>
+		
+	</div>
+	<div class="gradient-footer"></div>
+	<div class="footer"></div>
+	</div>
+<!-- Yandex.Metrika counter -->
+<div style="display:none;">
+<script type="text/javascript">
+(function(w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter505205 = new Ya.Metrika({id:505205,
+                    clickmap:true});
+        }
+       catch(e) { }
+    });
+})(window, 'yandex_metrika_callbacks');
+</script>
+</div>
+<script src="//mc.yandex.ru/metrika/watch_visor.js" type="text/javascript" defer="defer"></script>
+<noscript><div><img src="//mc.yandex.ru/watch/505205" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<!--LiveInternet counter--><script type="text/javascript"><!--
+new Image().src = "//counter.yadro.ru/hit;211ru?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random();//--></script><!--/LiveInternet-->
+
+</body>
+</html>

@@ -1,0 +1,8 @@
+END OF LEVEL
+The zone of end of the level.
+If player reach this zone
+he wins the level.
+
+Zone size:
+Width - /Integer 1..10000/
+Height - /Integer 1..10000/

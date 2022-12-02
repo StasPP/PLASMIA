@@ -1,0 +1,315 @@
+PAUSED
+Press ESC to continue
+GAME OVER
+Press Enter to restart
+ESC - exit to Main Menu
+CHOOSE A MAP
+PLAY
+SETTINGS
+ABOUT
+EXIT
+RESTART
+Yes
+No
+Are you sure?
+LOADING...
+[Checkpoint]
+Secret area!
+LAST CHECKPOINT
+    LEVEL DONE!    
+Enemies: 
+Plasmids: 
+Secrets: 
+Accuracy: 
+TOTAL: 
+Click here to continue
+Sound Volume
+Music Volume
+Mouse Sensitivity
+Redefine Controls
+< BACK
+ATTENTION!
+
+For more advanced settings 
+(language, resolution, V-sync,
+windowed mode, etc.) launch the
+game's configuration utility
+(Config.exe) in game's folder.
+START
+< BACK
+Credits: 
+Cost:
+Cr
+Not enough money!
+No free slots!
+You have this upgrade already!
+You can't drop this upgrade
+while using all color slots!
+PLASMIA
+[Aster's Falling]
+[New Profile]
+CREATE
+BACK
+ENTER
+DELETE
+CANCEL
+Enter a profile name
+PLAYER
+Confirm deletion
+Profile: 
+Exit to main menu?
+REDEFINE CONTROLS
+Inventory
+Next color
+Prev. color
+Item 1
+Item 2
+Item 3
+Item 4
+Bonus 1
+Bonus 2
+Bonus 3
+Change color
+Pause
+Mouse: standard
+Mouse: inverted
+ACCEPT
+DEFAULT
+CANCEL
+Load the last checkpoint?
+Warrior
+Collector
+Spy
+Sniper
+Pacifist
+Score
+Attentoin!
+Ground Control! All the departments!
+Distress call received!
+  
+Signal source is sector 21, 
+Proxima Centauri constellation,
+Alpha Centauri-B star system,
+The orbit of Plasmia planet.
+The signal is weak and data is broken. 
+Probably the sounce is under attack.
+We apprehend it's lumanians again.
+The connection with their command now is lost. 
+If it's true, we must react as soon as possible:
+they use our earthling technoligies against us
+and also they have biomass spaceships
+rised inside the incubaton-planets.
+On the orbit of Plasmia 
+the spacestation Aster is situated.
+The station provides extraction and processing
+of plasmids, very important resource.
+ 
+Plasmids are good as fuel and also as ammunition 
+of heavy plasma weapons that incredibly powerful!
+ 
+For moving our forces to Plasmia
+we need to open the time-space gate.
+But it will take a lot of time.
+ 
+Pilot Thomas Theseus. You are just one 
+who can enter the Aster now.
+Your aim is to reconnoitre the situation.
+Good luck!
+
+2009-2014 Creative Commons license
+Level 
+Choose difficulty:
+EASY
+NORMAL
+HARD
+Progress: 
+Difficulty: 
+Total score: 
+Stage: 
+Thomas Theseus // Spacecraft logbook
+Aim
+Button
+Door
+Electric Door
+Color Container
+Button
+Button
+Generator
+Color Barrier
+Laser
+Laser Emitter
+Shield
+Mirror (turnable)
+Mirror (turnable)
+Color-locked door
+Door
+Door
+Door
+Store
+Plasma Charger
+Current position
+ [Empty]
+ [Red]
+ [Orange]
+ [Yellow]
+ [Green]
+ [Blue]
+ [Navy]
+ [Violet]
+ [White]
+ CLOSED
+ OPEN
+ OFF
+ ON
+ OFF
+ ON
+Laser Switch
+Mirror
+Battery
+Loader
+Unloader
+SCANNING...
+Drawing error!
+Boss destroyed!
+Buttons/generators
+Doors/barriers
+Plasma/laser sources
+ACCESS DENIED!
+Total play time: 
+Total score: 
+ of 5000
+ [CHEATER!]
+Messages
+Congratulations! You've set a new record for this level!
+Complete the mission first!
+Theseus
+Selena
+Cpt. Black
+(Rose)
+Stanislav
+Minos
+Locker
+Bomb
+Scanning point
+Mission complete!
+Time: 
+[NO SCORE]
+Best score:
+Map details:
+Size: 
+M
+L
+XL
+XXL
+MEGA
+Author: 
+No name
+(No discription)
+
+ 
+GET MORE MAPS!
+--- 
+You can find 
+new maps and modes
+on the game's website: 
+plasmia.awardspace.info
+---  
+
+
+Intro
+Stage 2
+Stage 3
+Outro
+
+Take/use 
+Map unlocked: 
+ (story-mode is finished)
+ (score over 4500)
+ (pacifist medal)
+
+[The End]
+
+Shield
+ACCESS OPENED!
+Wave 
+Final wave! Watch out!
+ 
+Survival mode!
+Energy slot
+ MINED!
+Show in-game hints 
+HINTS
+Current
+ALL
+Camera: Center
+Camera: Movable
+Black's Goliath ship burst apart in 
+thousands of smoldering debris.
+But the Ground command know nothing yet
+about his betrayal and Aster's occupation.
+ 
+Just me and Rose left alive here.
+I breathed a sigh of relief 
+as I got the first message from her.
+I still remember our farewell that took place on Plasmia.
+We couldn't imagine that once we would meet again 
+in such a terrible situation... 
+ 
+Which sercets did Daedalus know? 
+Had he disclosed her anything?
+I hope to find all those answers 
+into her message-beacons...
+The best solution for us was to escape 
+immediately. But how to stop lumans?
+Soon they will be able to use 
+Aster in their terrible plans.
+The hangar of dispatching cabin
+was all empty. 
+I boarded my ship
+and ran to the control room.
+I heard a low wheeze as I reached it.
+That was Daedalus.
+                         
+"Betrayal! They're here... Rescue yourself..."
+These were his final words. He fell as though dead. 
+All the linking facility was broken.
+And no one was here except us.
+I need to get out from here immediately!
+I landed Plasmia a few minutes ago.
+Now I was only staying watching Aster's
+derbis falling down and burning in the sky.
+ 
+ 
+And I hoped that Thomas stayed alive... That he survived
+and he would soon land here on Plasmia too.
+ 
+ 
+And my heart was filled with happiness when 
+I noticed his ship not far from here!
+We've been waiting for this meeting for so long!
+I couldn't know what would happen - 
+war or peace. Everything stood still.
+And he was feeling this too.
+He just came up to me and silently hugged me.
+ 
+ 
+ 
+[The End]
+
+All BUGs have been destroyed!
+Second BUG has been destroyed!
+One of BUGS has been destroyed!
+Black
+Shoot 
+Move 
+
+Press ENTER to continue
+Dialogs: Show
+Dialogs: Hide
+Message!
+
+Unknown object
+Daedalus
+Bomb planted
+Bomb sent
+ of 

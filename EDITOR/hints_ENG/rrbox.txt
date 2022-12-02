@@ -1,0 +1,4 @@
+SCRIPT: Boxes
+
+
+Story mode object

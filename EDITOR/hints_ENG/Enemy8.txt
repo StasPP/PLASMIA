@@ -1,0 +1,5 @@
+Enemy: Fly
+Armed with rockets! 
+
+
+Color /Integer 1..7/ - vulnerability colour

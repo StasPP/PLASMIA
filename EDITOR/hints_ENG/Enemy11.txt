@@ -1,0 +1,7 @@
+Enemy: Heavy beetle
+Heavy bioship. 
+Colour of vulnerability 
+and weapons is yellow (3th)
+
+
+[NO OPTIONS]

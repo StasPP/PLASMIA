@@ -1,0 +1,10 @@
+Img: cache
+Index: 0
+Type: 72
+/// 1 Tile 2 Object 3 Enemy 4 Player
+SizeX: 200
+SizeY: 300
+*Angle
+*Opened
+*ObjTip
+*Contain

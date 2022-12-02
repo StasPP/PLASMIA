@@ -1,0 +1,62 @@
+//CheckBoxes
+Windowed
+V-Sync
+High-quality effects 
+High Detail (for high resolution)
+32-Bit Color
+Large Window
+//Labels
+Resolution:
+Music Volume
+Sound Volume
+Mouse Sensitivity
+//Buttons
+Apply
+Redefine Keys
+Start
+Exit
+Advanced lighting
+/// Action Keys
+
+Inventory
+Next Color
+Previous Color
+Item 1
+Item 2
+Item 3
+Item 4
+Mouse Buttons Settings
+Standard (LMB - Fire, RMB - Gas)
+Reverse Buttons
+Change Color
+Pause
+Prev.
+Next
+*Also by mouse wheel
+*Also by middle mouse button
+Reset
+Cancel
+Apply
+All supported
+
+// Windows Captions
+
+PLASMIA Settings
+Redefining keys
+
+Video Settings
+Low (high performance)
+Medium
+High
+Maximum (high quality)
+User defined
+Advanced >>
+Use/take
+LMB
+RMB
+Wheel
+Camera mode
+Standard
+Movable
+Cut Screen to 3:4
+Show dialogs

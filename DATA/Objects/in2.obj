@@ -1,0 +1,8 @@
+Img: in2
+Index: 0
+Type: 51
+/// 1 Tile 2 Object 3 Enemy 4 Player
+OffsetY: 32
+OffsetX: -65
+SizeX: 302
+SizeY: 128

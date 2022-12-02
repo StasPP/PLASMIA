@@ -1,0 +1,10 @@
+Img: key3
+Index: 0
+Type: 16
+/// 1 Tile 2 Object 3 Enemy 4 Player
+SizeX: 200
+SizeY: 300
+Line: right1.loc
+*Color
+*Opened
+*Protect

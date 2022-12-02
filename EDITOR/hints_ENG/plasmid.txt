@@ -1,0 +1,6 @@
+Plasmid
+Adds 1 unit of plasm with
+the same colour
+
+
+Color /Integer 1..7/ - colour 

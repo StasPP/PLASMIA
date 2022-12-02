@@ -1,0 +1,8 @@
+SCRIPT: Bomb taking zone
+Object for story mode.
+Takes bombs from conveyor.
+
+Count /INTEGER/ - number of
+bombs to be taken for done
+a level-mission
+

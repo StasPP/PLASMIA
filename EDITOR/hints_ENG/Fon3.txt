@@ -1,0 +1,6 @@
+BACKGROUND
+
+
+
+MirrorX/Y /Integer 0..1/ - reflect image
+           on axis X/Y (0 - no / 1- yes)

@@ -1,0 +1,5499 @@
+SizeX: 140
+SizeY: 50
+Name: 
+Author: 
+About: 
+Load: DopObjs1
+Load: Hints
+Load: Turrels
+Load: ..\Languages\RUS\Labels
+//
+Name: border_03
+X: 500
+Y: 4800
+Z: -1
+//
+Name: border_03
+X: 500
+Y: 4500
+Z: -1
+//
+Name: border_03
+X: 500
+Y: 4200
+Z: -1
+//
+Name: border_02
+X: 700
+Y: 4000
+Z: -1
+//
+Name: border_02
+X: 1000
+Y: 4000
+Z: -1
+//
+Name: border_01
+X: 1300
+Y: 4200
+Z: -1
+//
+Name: border_02
+X: 1600
+Y: 4600
+Z: -1
+//
+Name: border_03
+X: 2000
+Y: 4200
+Z: -1
+//
+Name: border_03
+X: 2000
+Y: 3900
+Z: -1
+//
+Name: border_02
+X: 2200
+Y: 3700
+Z: -1
+//
+Name: border_02
+X: 2500
+Y: 3700
+Z: -1
+//
+Name: border_01
+X: 2800
+Y: 3900
+Z: -1
+//
+Name: border_01
+X: 2800
+Y: 4200
+Z: -1
+//
+Name: border_04
+X: 2500
+Y: 4500
+Z: -1
+//
+Name: border_01
+X: 2200
+Y: 4800
+Z: -1
+//
+Name: corner_01
+X: 1300
+Y: 4000
+Z: -1
+//
+Name: d_corner_01
+X: 1900
+Y: 4500
+Z: -1
+//
+Name: d_corner_02
+X: 1300
+Y: 4500
+Z: -1
+//
+Name: d_corner_04
+X: 2200
+Y: 4500
+Z: -1
+//
+Name: f_corner_02
+X: 500
+Y: 4000
+Z: -1
+//
+Name: f_corner_02
+X: 2000
+Y: 3700
+Z: -1
+//
+Name: f_corner_04
+X: 2800
+Y: 4500
+Z: -1
+//
+Name: f_corner_01
+X: 2800
+Y: 3700
+Z: -1
+//
+Name: d_corner_03
+X: 1000
+Y: 4200
+Z: -1
+//
+Name: d_corner_04
+X: 700
+Y: 4200
+Z: -1
+//
+Name: d_corner_02
+X: 700
+Y: 4500
+Z: -1
+//
+Name: d_corner_01
+X: 1000
+Y: 4500
+Z: -1
+//
+Name: d_corner_01
+X: 2500
+Y: 4200
+Z: -1
+//
+Name: d_corner_02
+X: 2200
+Y: 4200
+Z: -1
+//
+Name: d_corner_03
+X: 2500
+Y: 3900
+Z: -1
+//
+Name: d_corner_04
+X: 2200
+Y: 3900
+Z: -1
+//
+Name: border_03
+X: 800
+Y: 3800
+Z: -1
+//
+Name: border_02
+X: 1000
+Y: 3600
+Z: -1
+//
+Name: d_corner_01
+X: 1300
+Y: 3500
+Z: -1
+//
+Name: border_03
+X: 1400
+Y: 3200
+Z: -1
+//
+Name: border_03
+X: 500
+Y: 0
+Z: -1
+//
+Name: border_03
+X: 500
+Y: 300
+Z: -1
+//
+Name: border_03
+X: 500
+Y: 600
+Z: -1
+//
+Name: border_04
+X: 700
+Y: 900
+Z: -1
+//
+Name: border_04
+X: 1000
+Y: 900
+Z: -1
+//
+Name: border_01
+X: 1300
+Y: 600
+Z: -1
+//
+Name: border_04
+X: 1600
+Y: 300
+Z: -1
+//
+Name: border_03
+X: 2000
+Y: 600
+Z: -1
+//
+Name: border_03
+X: 2000
+Y: 900
+Z: -1
+//
+Name: border_04
+X: 2200
+Y: 1200
+Z: -1
+//
+Name: border_04
+X: 2500
+Y: 1200
+Z: -1
+//
+Name: border_01
+X: 2800
+Y: 900
+Z: -1
+//
+Name: border_01
+X: 2800
+Y: 600
+Z: -1
+//
+Name: border_02
+X: 2500
+Y: 400
+Z: -1
+//
+Name: border_01
+X: 2200
+Y: 0
+Z: -1
+//
+Name: d_corner_02
+X: 2200
+Y: 300
+Z: -1
+//
+Name: d_corner_03
+X: 1900
+Y: 300
+Z: -1
+//
+Name: d_corner_03
+X: 2500
+Y: 600
+Z: -1
+//
+Name: d_corner_03
+X: 1000
+Y: 300
+Z: -1
+//
+Name: d_corner_04
+X: 1300
+Y: 300
+Z: -1
+//
+Name: d_corner_04
+X: 700
+Y: 300
+Z: -1
+//
+Name: d_corner_04
+X: 2200
+Y: 600
+Z: -1
+//
+Name: d_corner_01
+X: 1000
+Y: 600
+Z: -1
+//
+Name: d_corner_02
+X: 700
+Y: 600
+Z: -1
+//
+Name: d_corner_02
+X: 2200
+Y: 900
+Z: -1
+//
+Name: d_corner_01
+X: 2500
+Y: 900
+Z: -1
+//
+Name: f_corner_04
+X: 2800
+Y: 1200
+Z: -1
+//
+Name: f_corner_03
+X: 2000
+Y: 1200
+Z: -1
+//
+Name: f_corner_01
+X: 2800
+Y: 400
+Z: -1
+//
+Name: corner_04
+X: 1300
+Y: 900
+Z: -1
+//
+Name: f_corner_03
+X: 500
+Y: 900
+Z: -1
+//
+Name: border_03
+X: 800
+Y: 1000
+Z: -1
+//
+Name: border_04
+X: 1000
+Y: 1300
+Z: -1
+//
+Name: border_03
+X: 1400
+Y: 1600
+Z: -1
+//
+Name: border_03
+X: 1100
+Y: 2059
+Z: -1
+//
+Name: border_03
+X: 1100
+Y: 2750
+Z: -1
+//
+Name: corner_03
+X: 1100
+Y: 2950
+Z: -1
+//
+Name: corner_02
+X: 1100
+Y: 1950
+Z: -1
+//
+Name: d_corner_03
+X: 1300
+Y: 1300
+Z: -1
+//
+Name: d_corner_01
+X: 1300
+Y: 1850
+Z: -1
+//
+Name: d_corner_03
+X: 1300
+Y: 2950
+Z: -1
+//
+Name: corner_03
+X: 1100
+Y: 2300
+Z: -1
+//
+Name: corner_02
+X: 1100
+Y: 2700
+Z: -1
+//
+Name: border_02
+X: 1300
+Y: 2700
+Z: -1
+//
+Name: border_01
+X: 1600
+Y: 2900
+Z: -1
+//
+Name: border_01
+X: 1600
+Y: 2000
+Z: -1
+//
+Name: border_04
+X: 1300
+Y: 2300
+Z: -1
+//
+Name: corner_01
+X: 1600
+Y: 2700
+Z: -1
+//
+Name: door2
+X: 1400
+Y: 2441
+Z: 0
+Color: 8
+Count: 4
+//
+Name: corner_04
+X: 1600
+Y: 2300
+Z: -1
+//
+Name: d_corner_04
+X: 1600
+Y: 1700
+Z: -1
+//
+Name: d_corner_02
+X: 1600
+Y: 3200
+Z: -1
+//
+Name: border_01
+X: 1900
+Y: 3500
+Z: -1
+//
+Name: border_01
+X: 1900
+Y: 3800
+Z: -1
+//
+Name: border_01
+X: 1900
+Y: 4100
+Z: -1
+//
+Name: border_01
+X: 1900
+Y: 4400
+Z: -1
+//
+Name: border_01
+X: 1900
+Y: 1400
+Z: -1
+//
+Name: border_01
+X: 1900
+Y: 1100
+Z: -1
+//
+Name: border_01
+X: 1900
+Y: 800
+Z: -1
+//
+Name: border_01
+X: 1900
+Y: 500
+Z: -1
+//
+Name: border_01
+X: 1900
+Y: 400
+Z: -1
+//
+Name: f_corner_02
+X: 800
+Y: 3600
+Z: -1
+//
+Name: f_corner_03
+X: 800
+Y: 1300
+Z: -1
+//
+Name: Fon2
+X: 1300
+Y: 2450
+Z: -5
+mirrorX: 1
+mirrorY: 0
+//
+Name: Fon1
+X: 1400
+Y: 2300
+Z: -5
+//
+Name: Fon1
+X: 2000
+Y: 2300
+Z: -5
+//
+Name: Fon1
+X: 2600
+Y: 2300
+Z: -5
+//
+Name: f_corner_01
+X: 1900
+Y: 3300
+Z: -1
+//
+Name: f_corner_04
+X: 1900
+Y: 1700
+Z: -1
+//
+Name: tile1
+X: 1000
+Y: 4800
+Z: -1
+//
+Name: tile1
+X: 1300
+Y: 4800
+Z: -1
+//
+Name: tile1
+X: 1600
+Y: 3500
+Z: -1
+//
+Name: tile1
+X: 1600
+Y: 4100
+Z: -1
+//
+Name: tile1
+X: 1300
+Y: 4400
+Z: -1
+//
+Name: tile1
+X: 1300
+Y: 3800
+Z: -1
+//
+Name: tile1
+X: 1900
+Y: 4800
+Z: -1
+//
+Name: tile3
+X: 1600
+Y: 4800
+Z: -1
+//
+Name: tile3
+X: 700
+Y: 4800
+Z: -1
+//
+Name: tile3
+X: 1300
+Y: 4100
+Z: -1
+//
+Name: tile3
+X: 1000
+Y: 3800
+Z: -1
+//
+Name: tile2
+X: 1600
+Y: 3800
+Z: -1
+//
+Name: tile2
+X: 1600
+Y: 4400
+Z: -1
+//
+Name: tile2
+X: 1300
+Y: 2800
+Z: -1
+//
+Name: tile2
+X: 1300
+Y: 2100
+Z: -1
+//
+Name: tile2
+X: 1600
+Y: 1400
+Z: -1
+//
+Name: tile2
+X: 1600
+Y: 800
+Z: -1
+//
+Name: tile2
+X: 1300
+Y: 1100
+Z: -1
+//
+Name: tile2
+X: 1000
+Y: 800
+Z: -1
+//
+Name: tile2
+X: 1300
+Y: 500
+Z: -1
+//
+Name: tile3
+X: 1000
+Y: 1000
+Z: -1
+//
+Name: tile3
+X: 1300
+Y: 800
+Z: -1
+//
+Name: tile3
+X: 700
+Y: 0
+Z: -1
+//
+Name: tile3
+X: 1300
+Y: 0
+Z: -1
+//
+Name: tile2
+X: 1900
+Y: 0
+Z: -1
+//
+Name: tile1
+X: 1400
+Y: 300
+Z: -1
+//
+Name: tile1
+X: 1700
+Y: 400
+Z: -1
+//
+Name: tile1
+X: 1600
+Y: 500
+Z: -1
+//
+Name: tile1
+X: 1600
+Y: 0
+Z: -1
+//
+Name: tile1
+X: 1000
+Y: 0
+Z: -1
+//
+Name: tile1
+X: 1600
+Y: 1100
+Z: -1
+//
+Name: Playerstart
+X: 1800
+Y: 2500
+Z: 0
+Testparam1: 0
+Testparam2: 0
+//
+Name: Fon1
+X: 1700
+Y: 2900
+Z: -5
+//
+Name: Fon1
+X: 2300
+Y: 2900
+Z: -5
+//
+Name: Fon1
+X: 2000
+Y: 3400
+Z: -5
+//
+Name: Fon1
+X: 2600
+Y: 3300
+Z: -5
+//
+Name: Fon1
+X: 3100
+Y: 3300
+Z: -5
+//
+Name: Fon1
+X: 1700
+Y: 1700
+Z: -5
+//
+Name: Fon1
+X: 1900
+Y: 1100
+Z: -5
+//
+Name: border_03
+X: 3600
+Y: 1200
+Z: -1
+//
+Name: border_04
+X: 3200
+Y: 3300
+Z: -1
+//
+Name: border_03
+X: 3000
+Y: 3000
+Z: -1
+//
+Name: border_02
+X: 3200
+Y: 2800
+Z: -1
+//
+Name: d_corner_03
+X: 3500
+Y: 3300
+Z: -1
+//
+Name: d_corner_01
+X: 3500
+Y: 3900
+Z: -1
+//
+Name: border_02
+X: 3200
+Y: 4000
+Z: -1
+//
+Name: border_02
+X: 2900
+Y: 4000
+Z: -1
+//
+Name: border_04
+X: 2900
+Y: 900
+Z: -1
+//
+Name: border_04
+X: 3200
+Y: 900
+Z: -1
+//
+Name: d_corner_03
+X: 3500
+Y: 900
+Z: -1
+//
+Name: d_corner_01
+X: 3500
+Y: 1500
+Z: -1
+//
+Name: border_02
+X: 3200
+Y: 1600
+Z: -1
+//
+Name: border_03
+X: 3000
+Y: 1800
+Z: -1
+//
+Name: border_04
+X: 3200
+Y: 2100
+Z: -1
+//
+Name: d_corner_02
+X: 3500
+Y: 3100
+Z: -1
+//
+Name: d_corner_04
+X: 3500
+Y: 1700
+Z: -1
+//
+Name: corner_04
+X: 3500
+Y: 2100
+Z: -1
+//
+Name: corner_01
+X: 3500
+Y: 2800
+Z: -1
+//
+Name: border_01
+X: 3500
+Y: 3000
+Z: -1
+//
+Name: border_01
+X: 3500
+Y: 1800
+Z: -1
+//
+Name: f_corner_02
+X: 3000
+Y: 2800
+Z: -1
+//
+Name: f_corner_03
+X: 3000
+Y: 2100
+Z: -1
+//
+Name: f_corner_02
+X: 3000
+Y: 1600
+Z: -1
+//
+Name: f_corner_03
+X: 3000
+Y: 3300
+Z: -1
+//
+Name: tile4
+X: 3200
+Y: 3000
+Z: -1
+//
+Name: tile4
+X: 3200
+Y: 1800
+Z: -1
+//
+Name: Fon1
+X: 3050
+Y: 1050
+Z: -5
+//
+Name: Fon1
+X: 2500
+Y: 1050
+Z: -5
+//
+Name: Fon1
+X: 2500
+Y: 1600
+Z: -5
+//
+Name: Fon1
+X: 2600
+Y: 2000
+Z: -5
+//
+Name: Fon1
+X: 2300
+Y: 1700
+Z: -5
+//
+Name: Fon1
+X: 2600
+Y: 2700
+Z: -5
+//
+Name: Fon1
+X: 2800
+Y: 1200
+Z: -5
+//
+Name: Fon1
+X: 3200
+Y: 2100
+Z: -5
+//
+Name: Fon1
+X: 3200
+Y: 2300
+Z: -5
+//
+Name: Fon1
+X: 2700
+Y: 3600
+Z: -5
+//
+Name: Fon1
+X: 3200
+Y: 3500
+Z: -5
+//
+Name: border_03
+X: 3600
+Y: 3600
+Z: -1
+//
+Name: border_02
+X: 3800
+Y: 3200
+Z: -1
+//
+Name: border_04
+X: 3800
+Y: 1700
+Z: -1
+//
+Name: border_01
+X: 4100
+Y: 1400
+Z: -1
+//
+Name: border_01
+X: 4100
+Y: 1100
+Z: -1
+//
+Name: border_01
+X: 4100
+Y: 3400
+Z: -1
+//
+Name: border_01
+X: 4100
+Y: 3700
+Z: -1
+//
+Name: border_01
+X: 4100
+Y: 4000
+Z: -1
+//
+Name: border_01
+X: 4100
+Y: 4300
+Z: -1
+//
+Name: border_04
+X: 3800
+Y: 4600
+Z: -1
+//
+Name: border_04
+X: 3500
+Y: 4600
+Z: -1
+//
+Name: border_04
+X: 3200
+Y: 4600
+Z: -1
+//
+Name: border_04
+X: 2900
+Y: 4600
+Z: -1
+//
+Name: border_04
+X: 2600
+Y: 4600
+Z: -1
+//
+Name: border_04
+X: 2300
+Y: 4600
+Z: -1
+//
+Name: border_02
+X: 2300
+Y: 300
+Z: -1
+//
+Name: border_02
+X: 2600
+Y: 300
+Z: -1
+//
+Name: border_02
+X: 2900
+Y: 300
+Z: -1
+//
+Name: border_02
+X: 3200
+Y: 300
+Z: -1
+//
+Name: border_02
+X: 3500
+Y: 300
+Z: -1
+//
+Name: border_02
+X: 3800
+Y: 300
+Z: -1
+//
+Name: border_01
+X: 4100
+Y: 500
+Z: -1
+//
+Name: border_01
+X: 4100
+Y: 800
+Z: -1
+//
+Name: f_corner_01
+X: 4100
+Y: 3200
+Z: -1
+//
+Name: f_corner_04
+X: 4100
+Y: 1700
+Z: -1
+//
+Name: tile1
+X: 2900
+Y: 4100
+Z: -1
+//
+Name: tile1
+X: 2800
+Y: 4400
+Z: -1
+//
+Name: tile1
+X: 3500
+Y: 4100
+Z: -1
+//
+Name: tile1
+X: 3800
+Y: 4300
+Z: -1
+//
+Name: tile2
+X: 3200
+Y: 4200
+Z: -1
+//
+Name: tile2
+X: 3100
+Y: 4400
+Z: -1
+//
+Name: tile2
+X: 3400
+Y: 4400
+Z: -1
+//
+Name: tile2
+X: 3600
+Y: 4300
+Z: -1
+//
+Name: tile3
+X: 3800
+Y: 4000
+Z: -1
+//
+Name: tile2
+X: 3800
+Y: 3700
+Z: -1
+//
+Name: tile2
+X: 3800
+Y: 3400
+Z: -1
+//
+Name: tile2
+X: 3800
+Y: 1400
+Z: -1
+//
+Name: tile2
+X: 3800
+Y: 1100
+Z: -1
+//
+Name: tile2
+X: 2800
+Y: 500
+Z: -1
+//
+Name: tile2
+X: 3100
+Y: 700
+Z: -1
+//
+Name: tile2
+X: 3400
+Y: 400
+Z: -1
+//
+Name: tile2
+X: 3700
+Y: 700
+Z: -1
+//
+Name: tile3
+X: 2900
+Y: 700
+Z: -1
+//
+Name: tile3
+X: 3100
+Y: 400
+Z: -1
+//
+Name: tile3
+X: 3700
+Y: 400
+Z: -1
+//
+Name: tile2
+X: 3400
+Y: 600
+Z: -1
+//
+Name: tile1
+X: 3800
+Y: 900
+Z: -1
+//
+Name: tile1
+X: 3900
+Y: 500
+Z: -1
+//
+Name: tile1
+X: 3900
+Y: 700
+Z: -1
+//
+Name: f_corner_01
+X: 4100
+Y: 300
+Z: -1
+//
+Name: f_corner_04
+X: 4100
+Y: 4600
+Z: -1
+//
+Name: border_02
+X: 4200
+Y: 3600
+Z: -1
+//
+Name: border_02
+X: 4500
+Y: 3600
+Z: -1
+//
+Name: border_02
+X: 4800
+Y: 3600
+Z: -1
+//
+Name: border_04
+X: 4200
+Y: 4100
+Z: -1
+//
+Name: border_04
+X: 4500
+Y: 4100
+Z: -1
+//
+Name: border_04
+X: 4800
+Y: 4100
+Z: -1
+//
+Name: border_04
+X: 4200
+Y: 1300
+Z: -1
+//
+Name: border_04
+X: 4500
+Y: 1300
+Z: -1
+//
+Name: border_04
+X: 4800
+Y: 1300
+Z: -1
+//
+Name: border_02
+X: 4200
+Y: 800
+Z: -1
+//
+Name: border_02
+X: 4500
+Y: 800
+Z: -1
+//
+Name: border_02
+X: 4800
+Y: 800
+Z: -1
+//
+Name: border_03
+X: 5300
+Y: 500
+Z: -1
+//
+Name: border_03
+X: 5300
+Y: 800
+Z: -1
+//
+Name: border_03
+X: 5300
+Y: 1100
+Z: -1
+//
+Name: border_03
+X: 5300
+Y: 1400
+Z: -1
+//
+Name: border_03
+X: 5300
+Y: 3400
+Z: -1
+//
+Name: border_03
+X: 5300
+Y: 3700
+Z: -1
+//
+Name: border_03
+X: 5300
+Y: 4000
+Z: -1
+//
+Name: border_03
+X: 5300
+Y: 4300
+Z: -1
+//
+Name: border_04
+X: 5100
+Y: 1300
+Z: -1
+//
+Name: border_02
+X: 5100
+Y: 800
+Z: -1
+//
+Name: border_04
+X: 4200
+Y: 900
+Z: -1
+//
+Name: border_04
+X: 4500
+Y: 900
+Z: -1
+//
+Name: border_04
+X: 4800
+Y: 900
+Z: -1
+//
+Name: border_04
+X: 5100
+Y: 900
+Z: -1
+//
+Name: border_02
+X: 4200
+Y: 1200
+Z: -1
+//
+Name: border_02
+X: 4500
+Y: 1200
+Z: -1
+//
+Name: border_02
+X: 4800
+Y: 1200
+Z: -1
+//
+Name: border_02
+X: 5100
+Y: 1200
+Z: -1
+//
+Name: border_02
+X: 4800
+Y: 4000
+Z: -1
+//
+Name: border_02
+X: 4500
+Y: 4000
+Z: -1
+//
+Name: border_02
+X: 4200
+Y: 4000
+Z: -1
+//
+Name: border_02
+X: 5500
+Y: 300
+Z: -1
+//
+Name: border_02
+X: 5800
+Y: 300
+Z: -1
+//
+Name: border_04
+X: 5500
+Y: 1700
+Z: -1
+//
+Name: border_04
+X: 5800
+Y: 1700
+Z: -1
+//
+Name: border_04
+X: 5500
+Y: 4600
+Z: -1
+//
+Name: border_04
+X: 5800
+Y: 4600
+Z: -1
+//
+Name: border_02
+X: 5500
+Y: 3200
+Z: -1
+//
+Name: border_02
+X: 5800
+Y: 3200
+Z: -1
+//
+Name: border_01
+X: 6100
+Y: 4300
+Z: -1
+//
+Name: border_01
+X: 6100
+Y: 4000
+Z: -1
+//
+Name: border_01
+X: 6100
+Y: 3700
+Z: -1
+//
+Name: border_01
+X: 6100
+Y: 3400
+Z: -1
+//
+Name: d_corner_03
+X: 5800
+Y: 3400
+Z: -1
+//
+Name: d_corner_03
+X: 5800
+Y: 4000
+Z: -1
+//
+Name: d_corner_01
+X: 5800
+Y: 3700
+Z: -1
+//
+Name: d_corner_02
+X: 5500
+Y: 3700
+Z: -1
+//
+Name: d_corner_02
+X: 5500
+Y: 4300
+Z: -1
+//
+Name: d_corner_01
+X: 5800
+Y: 4300
+Z: -1
+//
+Name: d_corner_04
+X: 5500
+Y: 4000
+Z: -1
+//
+Name: d_corner_04
+X: 5500
+Y: 3400
+Z: -1
+//
+Name: d_corner_04
+X: 5500
+Y: 500
+Z: -1
+//
+Name: d_corner_03
+X: 5800
+Y: 500
+Z: -1
+//
+Name: d_corner_02
+X: 5500
+Y: 800
+Z: -1
+//
+Name: d_corner_02
+X: 5500
+Y: 1400
+Z: -1
+//
+Name: d_corner_03
+X: 5800
+Y: 1100
+Z: -1
+//
+Name: d_corner_01
+X: 5800
+Y: 1400
+Z: -1
+//
+Name: d_corner_04
+X: 5500
+Y: 1100
+Z: -1
+//
+Name: d_corner_01
+X: 5800
+Y: 800
+Z: -1
+//
+Name: border_01
+X: 6100
+Y: 500
+Z: -1
+//
+Name: border_01
+X: 6100
+Y: 800
+Z: -1
+//
+Name: border_01
+X: 6100
+Y: 1100
+Z: -1
+//
+Name: border_01
+X: 6100
+Y: 1400
+Z: -1
+//
+Name: f_corner_03
+X: 5300
+Y: 4600
+Z: -1
+//
+Name: f_corner_03
+X: 5300
+Y: 1700
+Z: -1
+//
+Name: f_corner_02
+X: 5300
+Y: 300
+Z: -1
+//
+Name: f_corner_02
+X: 5300
+Y: 3200
+Z: -1
+//
+Name: f_corner_01
+X: 6100
+Y: 3200
+Z: -1
+//
+Name: f_corner_01
+X: 6100
+Y: 300
+Z: -1
+//
+Name: f_corner_04
+X: 6100
+Y: 1700
+Z: -1
+//
+Name: f_corner_04
+X: 6100
+Y: 4600
+Z: -1
+//
+Name: Fon1
+X: 3600
+Y: 2900
+Z: -5
+//
+Name: Fon1
+X: 4200
+Y: 2900
+Z: -5
+//
+Name: Fon1
+X: 4800
+Y: 2900
+Z: -5
+//
+Name: Fon1
+X: 4200
+Y: 1000
+Z: -5
+//
+Name: Fon1
+X: 4800
+Y: 1000
+Z: -5
+//
+Name: Fon1
+X: 3600
+Y: 1500
+Z: -5
+//
+Name: Fon1
+X: 4200
+Y: 1600
+Z: -5
+//
+Name: Fon1
+X: 4800
+Y: 1600
+Z: -5
+//
+Name: Fon1
+X: 3800
+Y: 2100
+Z: -5
+//
+Name: Fon1
+X: 3800
+Y: 2600
+Z: -5
+//
+Name: Fon1
+X: 4400
+Y: 2200
+Z: -5
+//
+Name: Fon1
+X: 4400
+Y: 2600
+Z: -5
+//
+Name: Fon1
+X: 4800
+Y: 2100
+Z: -5
+//
+Name: Fon1
+X: 4900
+Y: 2500
+Z: -5
+//
+Name: Fon1
+X: 5300
+Y: 2700
+Z: -5
+//
+Name: Fon1
+X: 5400
+Y: 1700
+Z: -5
+//
+Name: Fon1
+X: 5400
+Y: 2200
+Z: -5
+//
+Name: Fon1
+X: 5400
+Y: 2700
+Z: -5
+//
+Name: Fon1
+X: 4800
+Y: 3500
+Z: -5
+//
+Name: Fon1
+X: 4200
+Y: 3500
+Z: -5
+//
+Name: border_04
+X: 4200
+Y: 3700
+Z: -1
+//
+Name: border_04
+X: 4500
+Y: 3700
+Z: -1
+//
+Name: border_04
+X: 4800
+Y: 3700
+Z: -1
+//
+Name: border_04
+X: 5100
+Y: 3700
+Z: -1
+//
+Name: border_04
+X: 5100
+Y: 4100
+Z: -1
+//
+Name: border_02
+X: 5100
+Y: 4000
+Z: -1
+//
+Name: border_02
+X: 5100
+Y: 3600
+Z: -1
+//
+Name: border_03
+X: 5900
+Y: 1800
+Z: -1
+//
+Name: border_03
+X: 5900
+Y: 3000
+Z: -1
+//
+Name: border_02
+X: 6000
+Y: 2700
+Z: -1
+//
+Name: border_04
+X: 6000
+Y: 2300
+Z: -1
+//
+Name: corner_03
+X: 5900
+Y: 2300
+Z: -1
+//
+Name: corner_02
+X: 5900
+Y: 2700
+Z: -1
+//
+Name: door2
+X: 6100
+Y: 2441
+Z: 0
+Color: 1
+Count: 1
+//
+Name: corner_02
+X: 4300
+Y: 2100
+Z: -1
+//
+Name: corner_03
+X: 4300
+Y: 2800
+Z: -1
+//
+Name: border_03
+X: 4300
+Y: 2600
+Z: -1
+//
+Name: border_03
+X: 4300
+Y: 2300
+Z: -1
+//
+Name: border_03
+X: 5900
+Y: 2000
+Z: -1
+//
+Name: border_03
+X: 5900
+Y: 2900
+Z: -1
+//
+Name: u_border_01
+X: 4300
+Y: 2400
+Z: 0
+Color: 1
+//
+Name: border_02
+X: 4500
+Y: 2100
+Z: -1
+//
+Name: border_04
+X: 4500
+Y: 2800
+Z: -1
+//
+Name: border_01
+X: 4800
+Y: 2300
+Z: -1
+//
+Name: border_01
+X: 4800
+Y: 2500
+Z: -1
+//
+Name: f_corner_01
+X: 4800
+Y: 2100
+Z: -1
+//
+Name: f_corner_04
+X: 4800
+Y: 2800
+Z: -1
+//
+Name: tile2
+X: 4500
+Y: 2300
+Z: -1
+//
+Name: tile2
+X: 4500
+Y: 2600
+Z: -1
+//
+Name: fx_light5
+X: 3600
+Y: 2800
+Z: 10
+Color: 2
+Animated: 0
+//
+Name: fx_light5
+X: 3600
+Y: 1800
+Z: 10
+Color: 2
+Animated: 0
+//
+Name: lamp1
+X: 3635
+Y: 3035
+Z: 0
+Angle: 0
+Color: 0
+//
+Name: lamp1
+X: 3635
+Y: 2035
+Z: 0
+Angle: 0
+Color: 0
+//
+Name: lamp1
+X: 4535
+Y: 3620
+Z: 0
+Angle: 270
+Color: 0
+//
+Name: lamp1
+X: 4735
+Y: 3620
+Z: 0
+Angle: 270
+Color: 0
+//
+Name: lamp1
+X: 4935
+Y: 3620
+Z: 0
+Angle: 270
+Color: 0
+//
+Name: lamp1
+X: 4535
+Y: 1435
+Z: 0
+Angle: 90
+Color: 0
+//
+Name: lamp1
+X: 4735
+Y: 1435
+Z: 0
+Angle: 90
+Color: 0
+//
+Name: lamp1
+X: 4935
+Y: 1435
+Z: 0
+Angle: 90
+Color: 0
+//
+Name: fx_light4
+X: 4300
+Y: 3420
+Z: 10
+Color: 6
+Animated: 0
+//
+Name: fx_light4
+X: 4500
+Y: 3420
+Z: 10
+Color: 6
+Animated: 0
+//
+Name: fx_light4
+X: 4700
+Y: 3420
+Z: 10
+Color: 6
+Animated: 0
+//
+Name: fx_light6
+X: 4300
+Y: 1400
+Z: 10
+Color: 6
+Animated: 0
+//
+Name: fx_light6
+X: 4500
+Y: 1400
+Z: 10
+Color: 6
+Animated: 0
+//
+Name: fx_light6
+X: 4700
+Y: 1400
+Z: 10
+Color: 6
+Animated: 0
+//
+Name: fx_light1
+X: 4900
+Y: 2050
+Z: -1
+Color: 0
+Animated: 0
+//
+Name: fx_light7
+X: 4120
+Y: 2300
+Z: 10
+Color: 1
+Animated: 0
+//
+Name: save
+X: 6300
+Y: 2570
+Z: 5
+//
+Name: key_1
+X: 4800
+Y: 2400
+Z: 0
+Color: 1
+Opened: 0
+Protect: 0
+//
+Name: Fon1
+X: 6000
+Y: 2300
+Z: -5
+//
+Name: Fon1
+X: 6600
+Y: 2300
+Z: -5
+//
+Name: event
+X: 3000
+Y: 2500
+Z: 5
+Width: 300
+Height: 500
+Event: 157
+Count: 2
+//
+Name: hint
+X: 3900
+Y: 2500
+Z: 5
+Width: 200
+Height: 500
+Hint: 2
+//
+Name: hint
+X: 2100
+Y: 2500
+Z: 5
+Width: 300
+Height: 500
+Hint: 1
+//
+Name: fx_light7
+X: 3420
+Y: 3500
+Z: 10
+Color: 2
+Animated: 0
+//
+Name: fx_light7
+X: 3420
+Y: 1100
+Z: 10
+Color: 2
+Animated: 0
+//
+Name: lamp2
+X: 3620
+Y: 3635
+Z: 0
+Angle: 180
+Color: 0
+//
+Name: lamp2
+X: 3620
+Y: 1235
+Z: 0
+Angle: 180
+Color: 0
+//
+Name: lamp1
+X: 1735
+Y: 2935
+Z: 0
+Angle: 0
+Color: 0
+//
+Name: lamp1
+X: 1735
+Y: 3135
+Z: 0
+Angle: 0
+Color: 0
+//
+Name: lamp1
+X: 1735
+Y: 2035
+Z: 0
+Angle: 0
+Color: 0
+//
+Name: lamp1
+X: 1735
+Y: 2235
+Z: 0
+Angle: 0
+Color: 0
+//
+Name: fx_light5
+X: 1700
+Y: 2900
+Z: 10
+Color: 2
+Animated: 0
+//
+Name: fx_light5
+X: 1700
+Y: 2700
+Z: 10
+Color: 2
+Animated: 0
+//
+Name: fx_light5
+X: 1700
+Y: 1800
+Z: 10
+Color: 2
+Animated: 0
+//
+Name: fx_light5
+X: 1700
+Y: 2000
+Z: 10
+Color: 2
+Animated: 0
+//
+Name: lamp1
+X: 3135
+Y: 4020
+Z: 0
+Angle: 270
+Color: 0
+//
+Name: lamp1
+X: 3335
+Y: 4020
+Z: 0
+Angle: 270
+Color: 0
+//
+Name: lamp1
+X: 3135
+Y: 1035
+Z: 0
+Angle: 90
+Color: 0
+//
+Name: lamp1
+X: 3335
+Y: 1035
+Z: 0
+Angle: 90
+Color: 0
+//
+Name: fx_light4
+X: 2900
+Y: 3820
+Z: 10
+Color: 6
+Animated: 0
+//
+Name: fx_light4
+X: 3100
+Y: 3820
+Z: 10
+Color: 6
+Animated: 0
+//
+Name: fx_light6
+X: 2900
+Y: 1000
+Z: 10
+Color: 6
+Animated: 0
+//
+Name: fx_light6
+X: 3100
+Y: 1000
+Z: 10
+Color: 6
+Animated: 0
+//
+Name: hint
+X: 5200
+Y: 2500
+Z: 5
+Width: 400
+Height: 300
+Hint: 3
+//
+Name: f_corner_04
+X: 6300
+Y: 2300
+Z: -1
+//
+Name: f_corner_01
+X: 6300
+Y: 2700
+Z: -1
+//
+Name: border_01
+X: 6300
+Y: 1100
+Z: -1
+//
+Name: corner_01
+X: 6300
+Y: 1000
+Z: -1
+//
+Name: border_02
+X: 6100
+Y: 1000
+Z: -1
+//
+Name: tile2
+X: 6100
+Y: 3500
+Z: -1
+//
+Name: tile2
+X: 6000
+Y: 3200
+Z: -1
+//
+Name: tile2
+X: 6100
+Y: 2900
+Z: -1
+//
+Name: tile2
+X: 6100
+Y: 2000
+Z: -1
+//
+Name: tile2
+X: 6100
+Y: 1700
+Z: -1
+//
+Name: tile2
+X: 6100
+Y: 1400
+Z: -1
+//
+Name: tile2
+X: 6100
+Y: 1200
+Z: -1
+//
+Name: tile2
+X: 6000
+Y: 3700
+Z: -1
+//
+Name: border_04
+X: 6000
+Y: 4000
+Z: -1
+//
+Name: border_01
+X: 6300
+Y: 3700
+Z: -1
+//
+Name: corner_04
+X: 6300
+Y: 4000
+Z: -1
+//
+Name: Fon1
+X: 6400
+Y: 2900
+Z: -5
+//
+Name: Fon1
+X: 6400
+Y: 1700
+Z: -5
+//
+Name: Fon1
+X: 7000
+Y: 1700
+Z: -5
+//
+Name: Fon1
+X: 7000
+Y: 2900
+Z: -5
+//
+Name: Fon1
+X: 7200
+Y: 2300
+Z: -5
+//
+Name: Fon1
+X: 7600
+Y: 2900
+Z: -5
+//
+Name: Fon1
+X: 7600
+Y: 2300
+Z: -5
+//
+Name: Fon1
+X: 7600
+Y: 1700
+Z: -5
+//
+Name: Fon1
+X: 6400
+Y: 3500
+Z: -5
+//
+Name: Fon1
+X: 6400
+Y: 1100
+Z: -5
+//
+Name: Fon1
+X: 7000
+Y: 1100
+Z: -5
+//
+Name: Fon1
+X: 7600
+Y: 1100
+Z: -5
+//
+Name: Fon1
+X: 7000
+Y: 3500
+Z: -5
+//
+Name: Fon1
+X: 7600
+Y: 3500
+Z: -5
+//
+Name: border_04
+X: 6200
+Y: 4300
+Z: -1
+//
+Name: border_04
+X: 6500
+Y: 4300
+Z: -1
+//
+Name: border_04
+X: 6400
+Y: 1200
+Z: -1
+//
+Name: border_04
+X: 6700
+Y: 1200
+Z: -1
+//
+Name: border_04
+X: 7000
+Y: 1200
+Z: -1
+//
+Name: border_02
+X: 6100
+Y: 700
+Z: -1
+//
+Name: border_02
+X: 6400
+Y: 700
+Z: -1
+//
+Name: border_02
+X: 6700
+Y: 700
+Z: -1
+//
+Name: border_02
+X: 7000
+Y: 700
+Z: -1
+//
+Name: border_04
+X: 6700
+Y: 4300
+Z: -1
+//
+Name: border_04
+X: 7000
+Y: 4300
+Z: -1
+//
+Name: border_02
+X: 6400
+Y: 3800
+Z: -1
+//
+Name: border_02
+X: 6700
+Y: 3800
+Z: -1
+//
+Name: border_02
+X: 7000
+Y: 3800
+Z: -1
+//
+Name: border_04
+X: 7300
+Y: 4300
+Z: -1
+//
+Name: border_02
+X: 7300
+Y: 700
+Z: -1
+//
+Name: d_corner_04
+X: 6300
+Y: 3400
+Z: -1
+//
+Name: d_corner_02
+X: 6300
+Y: 2900
+Z: -1
+//
+Name: d_corner_02
+X: 6300
+Y: 1500
+Z: -1
+//
+Name: d_corner_04
+X: 6300
+Y: 2000
+Z: -1
+//
+Name: border_01
+X: 6300
+Y: 1300
+Z: -1
+//
+Name: d_corner_03
+X: 6600
+Y: 3400
+Z: -1
+//
+Name: d_corner_01
+X: 6600
+Y: 1500
+Z: -1
+//
+Name: border_03
+X: 6700
+Y: 1300
+Z: -1
+//
+Name: border_03
+X: 6700
+Y: 3600
+Z: -1
+//
+Name: border_01
+X: 6900
+Y: 1300
+Z: -1
+//
+Name: border_01
+X: 6900
+Y: 3600
+Z: -1
+//
+Name: border_02
+X: 6600
+Y: 3000
+Z: -1
+//
+Name: border_04
+X: 6600
+Y: 2000
+Z: -1
+//
+Name: border_04
+X: 6900
+Y: 2000
+Z: -1
+//
+Name: border_02
+X: 6900
+Y: 3000
+Z: -1
+//
+Name: d_corner_04
+X: 6900
+Y: 3300
+Z: -1
+//
+Name: d_corner_02
+X: 6900
+Y: 1600
+Z: -1
+//
+Name: border_02
+X: 7200
+Y: 1700
+Z: -1
+//
+Name: border_04
+X: 7200
+Y: 3300
+Z: -1
+//
+Name: border_04
+X: 7200
+Y: 2000
+Z: -1
+//
+Name: border_02
+X: 7200
+Y: 3000
+Z: -1
+//
+Name: xdec21
+X: 5970
+Y: 2300
+Z: 0
+Angle: 0
+//
+Name: Mina
+X: 6700
+Y: 2300
+Z: 0
+//
+Name: Mina
+X: 6700
+Y: 2600
+Z: 0
+//
+Name: Mina
+X: 6600
+Y: 2800
+Z: 0
+//
+Name: Mina
+X: 6900
+Y: 2400
+Z: 0
+//
+Name: Mina
+X: 7200
+Y: 2700
+Z: 0
+//
+Name: Mina
+X: 6800
+Y: 2800
+Z: 0
+//
+Name: Mina
+X: 6900
+Y: 2600
+Z: 0
+//
+Name: Mina
+X: 7100
+Y: 2400
+Z: 0
+//
+Name: Mina
+X: 7300
+Y: 2300
+Z: 0
+//
+Name: Mina
+X: 7000
+Y: 2800
+Z: 0
+//
+Name: Mina
+X: 7300
+Y: 2500
+Z: 0
+//
+Name: Mina
+X: 7400
+Y: 2800
+Z: 0
+//
+Name: Mina
+X: 7000
+Y: 2200
+Z: 0
+//
+Name: Mina
+X: 7100
+Y: 2500
+Z: 0
+//
+Name: corner_01
+X: 7500
+Y: 3000
+Z: -1
+//
+Name: corner_04
+X: 7500
+Y: 2000
+Z: -1
+//
+Name: d_corner_04
+X: 7500
+Y: 1800
+Z: -1
+//
+Name: d_corner_02
+X: 7500
+Y: 3100
+Z: -1
+//
+Name: xarrow1
+X: 6000
+Y: 2800
+Z: 0
+Angle: 0
+//
+Name: xmark2
+X: 4050
+Y: 2425
+Z: 0
+Angle: 0
+//
+Name: d_corner_01
+X: 7800
+Y: 3100
+Z: -1
+//
+Name: d_corner_03
+X: 7800
+Y: 1800
+Z: -1
+//
+Name: border_03
+X: 7600
+Y: 3000
+Z: -1
+//
+Name: border_03
+X: 7600
+Y: 1900
+Z: -1
+//
+Name: border_04
+X: 8100
+Y: 2100
+Z: -1
+//
+Name: border_02
+X: 8100
+Y: 2900
+Z: -1
+//
+Name: f_corner_02
+X: 7600
+Y: 2800
+Z: -1
+//
+Name: f_corner_03
+X: 7600
+Y: 2200
+Z: -1
+//
+Name: corner_02
+X: 7900
+Y: 2900
+Z: -1
+//
+Name: corner_03
+X: 7900
+Y: 2100
+Z: -1
+//
+Name: border_01
+X: 8400
+Y: 1800
+Z: -1
+//
+Name: border_01
+X: 8400
+Y: 3100
+Z: -1
+//
+Name: border_02
+X: 7800
+Y: 2800
+Z: -1
+//
+Name: border_04
+X: 7800
+Y: 2200
+Z: -1
+//
+Name: corner_01
+X: 8100
+Y: 2800
+Z: -1
+//
+Name: corner_04
+X: 8100
+Y: 2200
+Z: -1
+//
+Name: f_corner_01
+X: 8400
+Y: 2900
+Z: -1
+//
+Name: f_corner_04
+X: 8400
+Y: 2100
+Z: -1
+//
+Name: tile2
+X: 7800
+Y: 3000
+Z: -1
+//
+Name: tile2
+X: 7800
+Y: 1900
+Z: -1
+//
+Name: tile2
+X: 8100
+Y: 3100
+Z: -1
+//
+Name: tile2
+X: 8100
+Y: 1800
+Z: -1
+//
+Name: tile2
+X: 6300
+Y: 3100
+Z: -1
+//
+Name: tile2
+X: 6600
+Y: 3100
+Z: -1
+//
+Name: tile2
+X: 6400
+Y: 1700
+Z: -1
+//
+Name: tile2
+X: 6700
+Y: 1700
+Z: -1
+//
+Name: tile2
+X: 7000
+Y: 1800
+Z: -1
+//
+Name: tile2
+X: 7300
+Y: 1800
+Z: -1
+//
+Name: tile2
+X: 6900
+Y: 3100
+Z: -1
+//
+Name: tile2
+X: 7200
+Y: 3100
+Z: -1
+//
+Name: f_corner_01
+X: 7300
+Y: 3800
+Z: -1
+//
+Name: f_corner_04
+X: 7300
+Y: 1200
+Z: -1
+//
+Name: d_corner_04
+X: 7300
+Y: 900
+Z: -1
+//
+Name: d_corner_02
+X: 7300
+Y: 4000
+Z: -1
+//
+Name: border_04
+X: 7600
+Y: 4300
+Z: -1
+//
+Name: border_02
+X: 7600
+Y: 4100
+Z: -1
+//
+Name: border_02
+X: 7600
+Y: 700
+Z: -1
+//
+Name: border_04
+X: 7600
+Y: 900
+Z: -1
+//
+Name: border_04
+X: 7500
+Y: 3300
+Z: -1
+//
+Name: border_04
+X: 7800
+Y: 3300
+Z: -1
+//
+Name: border_02
+X: 7500
+Y: 1700
+Z: -1
+//
+Name: border_02
+X: 7800
+Y: 1700
+Z: -1
+//
+Name: border_02
+X: 8200
+Y: 4100
+Z: -1
+//
+Name: border_02
+X: 8500
+Y: 4100
+Z: -1
+//
+Name: border_04
+X: 8200
+Y: 900
+Z: -1
+//
+Name: border_04
+X: 8500
+Y: 900
+Z: -1
+//
+Name: border_01
+X: 8800
+Y: 4900
+Z: -1
+//
+Name: d_corner_03
+X: 7900
+Y: 4300
+Z: -1
+//
+Name: d_corner_01
+X: 7900
+Y: 600
+Z: -1
+//
+Name: border_03
+X: 8000
+Y: 4600
+Z: -1
+//
+Name: border_03
+X: 8000
+Y: 4900
+Z: -1
+//
+Name: border_03
+X: 8000
+Y: 300
+Z: -1
+//
+Name: border_03
+X: 8000
+Y: 0
+Z: -1
+//
+Name: border_01
+X: 8800
+Y: 0
+Z: -1
+//
+Name: d_corner_04
+X: 8200
+Y: 300
+Z: -1
+//
+Name: d_corner_03
+X: 8500
+Y: 300
+Z: -1
+//
+Name: d_corner_02
+X: 8200
+Y: 600
+Z: -1
+//
+Name: d_corner_01
+X: 8500
+Y: 600
+Z: -1
+//
+Name: d_corner_01
+X: 8500
+Y: 4600
+Z: -1
+//
+Name: d_corner_02
+X: 8200
+Y: 4600
+Z: -1
+//
+Name: d_corner_04
+X: 8200
+Y: 4300
+Z: -1
+//
+Name: d_corner_03
+X: 8500
+Y: 4300
+Z: -1
+//
+Name: tile1
+X: 8200
+Y: 4900
+Z: -1
+//
+Name: tile1
+X: 8500
+Y: 4900
+Z: -1
+//
+Name: tile1
+X: 8200
+Y: 0
+Z: -1
+//
+Name: tile1
+X: 8500
+Y: 0
+Z: -1
+//
+Name: d_corner_03
+X: 8100
+Y: 3300
+Z: -1
+//
+Name: corner_03
+X: 8200
+Y: 3500
+Z: -1
+//
+Name: f_corner_04
+X: 8400
+Y: 3500
+Z: -1
+//
+Name: f_corner_01
+X: 8400
+Y: 1500
+Z: -1
+//
+Name: corner_02
+X: 8200
+Y: 1500
+Z: -1
+//
+Name: d_corner_01
+X: 8100
+Y: 1600
+Z: -1
+//
+Name: border_01
+X: 8400
+Y: 1700
+Z: -1
+//
+Name: border_01
+X: 8400
+Y: 3200
+Z: -1
+//
+Name: border_01
+X: 6900
+Y: 500
+Z: -1
+//
+Name: border_01
+X: 6900
+Y: 200
+Z: -1
+//
+Name: border_01
+X: 6900
+Y: 0
+Z: -1
+//
+Name: border_03
+X: 6700
+Y: 500
+Z: -1
+//
+Name: border_03
+X: 6700
+Y: 200
+Z: -1
+//
+Name: border_03
+X: 6700
+Y: 0
+Z: -1
+//
+Name: border_03
+X: 6700
+Y: 4400
+Z: -1
+//
+Name: border_03
+X: 6700
+Y: 4700
+Z: -1
+//
+Name: border_03
+X: 6700
+Y: 4800
+Z: -1
+//
+Name: border_01
+X: 6900
+Y: 4800
+Z: -1
+//
+Name: border_01
+X: 6900
+Y: 4600
+Z: -1
+//
+Name: border_01
+X: 6900
+Y: 4400
+Z: -1
+//
+Name: tile3
+X: 6200
+Y: 4000
+Z: -1
+//
+Name: tile3
+X: 6500
+Y: 4000
+Z: -1
+//
+Name: tile1
+X: 7000
+Y: 4000
+Z: -1
+//
+Name: tile1
+X: 6700
+Y: 4000
+Z: -1
+//
+Name: tile1
+X: 7000
+Y: 900
+Z: -1
+//
+Name: tile1
+X: 6200
+Y: 900
+Z: -1
+//
+Name: tile3
+X: 6500
+Y: 900
+Z: -1
+//
+Name: tile2
+X: 6800
+Y: 900
+Z: -1
+//
+Name: corner_04
+X: 8800
+Y: 900
+Z: -1
+//
+Name: corner_01
+X: 8800
+Y: 4100
+Z: -1
+//
+Name: d_corner_04
+X: 8800
+Y: 700
+Z: -1
+//
+Name: d_corner_02
+X: 8800
+Y: 4200
+Z: -1
+//
+Name: d_corner_02
+X: 8800
+Y: 200
+Z: -1
+//
+Name: d_corner_04
+X: 8800
+Y: 4700
+Z: -1
+//
+Name: border_03
+X: 9500
+Y: 3900
+Z: -1
+//
+Name: border_03
+X: 9500
+Y: 1000
+Z: -1
+//
+Name: border_03
+X: 9500
+Y: 3600
+Z: -1
+//
+Name: border_03
+X: 9500
+Y: 1300
+Z: -1
+//
+Name: corner_02
+X: 9100
+Y: 1900
+Z: -1
+//
+Name: border_03
+X: 9100
+Y: 2100
+Z: -1
+//
+Name: border_03
+X: 9100
+Y: 2800
+Z: -1
+//
+Name: border_02
+X: 9200
+Y: 2700
+Z: -1
+//
+Name: border_04
+X: 9200
+Y: 2300
+Z: -1
+//
+Name: corner_03
+X: 9100
+Y: 2300
+Z: -1
+//
+Name: corner_02
+X: 9100
+Y: 2700
+Z: -1
+//
+Name: border_04
+X: 8000
+Y: 3400
+Z: -1
+//
+Name: border_04
+X: 7700
+Y: 3400
+Z: -1
+//
+Name: border_02
+X: 8000
+Y: 1600
+Z: -1
+//
+Name: border_02
+X: 7700
+Y: 1600
+Z: -1
+//
+Name: corner_02
+X: 7500
+Y: 1600
+Z: -1
+//
+Name: corner_03
+X: 7500
+Y: 3400
+Z: -1
+//
+Name: border_04
+X: 9100
+Y: 4700
+Z: -1
+//
+Name: border_02
+X: 9100
+Y: 300
+Z: -1
+//
+Name: f_corner_04
+X: 9500
+Y: 2300
+Z: -1
+//
+Name: f_corner_01
+X: 9500
+Y: 2700
+Z: -1
+//
+Name: tile3
+X: 9200
+Y: 2800
+Z: -1
+//
+Name: tile3
+X: 9200
+Y: 2100
+Z: -1
+//
+Name: d_corner_03
+X: 9400
+Y: 3100
+Z: -1
+//
+Name: corner_03
+X: 9100
+Y: 3100
+Z: -1
+//
+Name: border_04
+X: 9200
+Y: 3100
+Z: -1
+//
+Name: d_corner_01
+X: 9400
+Y: 1800
+Z: -1
+//
+Name: border_02
+X: 9200
+Y: 1900
+Z: -1
+//
+Name: border_03
+X: 9500
+Y: 1500
+Z: -1
+//
+Name: border_03
+X: 9500
+Y: 3400
+Z: -1
+//
+Name: d_corner_02
+X: 9500
+Y: 2900
+Z: -1
+//
+Name: d_corner_04
+X: 9500
+Y: 2000
+Z: -1
+//
+Name: border_01
+X: 9800
+Y: 3200
+Z: -1
+//
+Name: border_01
+X: 9800
+Y: 1700
+Z: -1
+//
+Name: f_corner_01
+X: 9800
+Y: 3000
+Z: -1
+//
+Name: f_corner_04
+X: 9800
+Y: 2000
+Z: -1
+//
+Name: border_02
+X: 9100
+Y: 4300
+Z: -1
+//
+Name: border_04
+X: 9100
+Y: 700
+Z: -1
+//
+Name: Fon1
+X: 7400
+Y: 3800
+Z: -5
+//
+Name: Fon1
+X: 8000
+Y: 3800
+Z: -5
+//
+Name: Fon1
+X: 8500
+Y: 3100
+Z: -5
+//
+Name: Fon1
+X: 8950
+Y: 3100
+Z: -5
+//
+Name: Fon1
+X: 8100
+Y: 3500
+Z: -5
+//
+Name: Fon1
+X: 8400
+Y: 3800
+Z: -5
+//
+Name: Fon1
+X: 9000
+Y: 3800
+Z: -5
+//
+Name: Fon1
+X: 9000
+Y: 3500
+Z: -5
+//
+Name: Fon3
+X: 8400
+Y: 3000
+Z: -5
+mirrorX: 0
+mirrorY: 1
+//
+Name: Fon3
+X: 8700
+Y: 3000
+Z: -5
+mirrorX: 0
+mirrorY: 1
+//
+Name: Fon3
+X: 9000
+Y: 3000
+Z: -5
+mirrorX: 0
+mirrorY: 1
+//
+Name: Fon2
+X: 8200
+Y: 2200
+Z: -5
+mirrorX: 0
+mirrorY: 0
+//
+Name: Fon2
+X: 8200
+Y: 2500
+Z: -5
+mirrorX: 0
+mirrorY: 0
+//
+Name: Fon2
+X: 8200
+Y: 2800
+Z: -5
+mirrorX: 0
+mirrorY: 0
+//
+Name: Fon3
+X: 8400
+Y: 2000
+Z: -5
+mirrorX: 0
+mirrorY: 0
+//
+Name: Fon3
+X: 8700
+Y: 2000
+Z: -5
+mirrorX: 0
+mirrorY: 0
+//
+Name: Fon3
+X: 9000
+Y: 2000
+Z: -5
+mirrorX: 0
+mirrorY: 0
+//
+Name: Fon1
+X: 9000
+Y: 1400
+Z: -5
+//
+Name: Fon1
+X: 8400
+Y: 1400
+Z: -5
+//
+Name: Fon1
+X: 8100
+Y: 1200
+Z: -5
+//
+Name: Fon1
+X: 8200
+Y: 1000
+Z: -5
+//
+Name: Fon1
+X: 9000
+Y: 800
+Z: -5
+//
+Name: Fon1
+X: 8700
+Y: 800
+Z: -5
+//
+Name: Fon1
+X: 7400
+Y: 900
+Z: -5
+//
+Name: Fon1
+X: 8000
+Y: 800
+Z: -5
+//
+Name: fx_light1
+X: 6500
+Y: 2100
+Z: -1
+Color: 0
+Animated: 0
+//
+Name: fx_light2
+X: 1500
+Y: 800
+Z: -1
+Color: 0
+Animated: 0
+//
+Name: fx_light2
+X: 1500
+Y: 2200
+Z: -1
+Color: 0
+Animated: 0
+//
+Name: fx_light4
+X: 5500
+Y: 3020
+Z: 10
+Color: 2
+Animated: 0
+//
+Name: fx_light6
+X: 5500
+Y: 1800
+Z: 10
+Color: 2
+Animated: 0
+//
+Name: lamp1
+X: 5735
+Y: 3220
+Z: 0
+Angle: 270
+Color: 0
+//
+Name: lamp1
+X: 5735
+Y: 1835
+Z: 0
+Angle: 90
+Color: 0
+//
+Name: lamp1
+X: 7935
+Y: 2335
+Z: 0
+Angle: 90
+Color: 0
+//
+Name: lamp1
+X: 8135
+Y: 2335
+Z: 0
+Angle: 90
+Color: 0
+//
+Name: lamp1
+X: 7935
+Y: 2820
+Z: 0
+Angle: 270
+Color: 0
+//
+Name: lamp1
+X: 8135
+Y: 2820
+Z: 0
+Angle: 270
+Color: 0
+//
+Name: fx_light6
+X: 7700
+Y: 2300
+Z: 10
+Color: 6
+Animated: 0
+//
+Name: fx_light6
+X: 7900
+Y: 2300
+Z: 10
+Color: 6
+Animated: 0
+//
+Name: fx_light4
+X: 7700
+Y: 2620
+Z: 10
+Color: 6
+Animated: 0
+//
+Name: fx_light4
+X: 7900
+Y: 2620
+Z: 10
+Color: 6
+Animated: 0
+//
+Name: lamp1
+X: 7035
+Y: 3635
+Z: 0
+Angle: 0
+Color: 0
+//
+Name: lamp1
+X: 7035
+Y: 1535
+Z: 0
+Angle: 0
+Color: 0
+//
+Name: xarrow3
+X: 8100
+Y: 2100
+Z: 0
+Angle: 0
+//
+Name: xarrow3
+X: 8100
+Y: 2970
+Z: 0
+Angle: 0
+//
+Name: fx_light5
+X: 7000
+Y: 3400
+Z: 10
+Color: 6
+Animated: 0
+//
+Name: fx_light5
+X: 7000
+Y: 1300
+Z: 10
+Color: 6
+Animated: 0
+//
+Name: turrel5
+X: 9439
+Y: 3300
+Z: 0
+Color: 1
+//
+Name: turrel5
+X: 9439
+Y: 3500
+Z: 0
+Color: 1
+//
+Name: turrel5
+X: 9439
+Y: 3700
+Z: 0
+Color: 1
+//
+Name: turrel5
+X: 9439
+Y: 3900
+Z: 0
+Color: 1
+//
+Name: turrel5
+X: 9439
+Y: 1800
+Z: 0
+Color: 1
+//
+Name: turrel5
+X: 9439
+Y: 1600
+Z: 0
+Color: 1
+//
+Name: turrel5
+X: 9439
+Y: 1400
+Z: 0
+Color: 1
+//
+Name: turrel5
+X: 9439
+Y: 1200
+Z: 0
+Color: 1
+//
+Name: turrel4
+X: 8100
+Y: 3535
+Z: 0
+Color: 1
+//
+Name: turrel4
+X: 7900
+Y: 3535
+Z: 0
+Color: 1
+//
+Name: turrel4
+X: 7700
+Y: 3535
+Z: 0
+Color: 1
+//
+Name: turrel2
+X: 8100
+Y: 1541
+Z: 0
+Color: 1
+//
+Name: turrel2
+X: 7900
+Y: 1541
+Z: 0
+Color: 1
+//
+Name: turrel2
+X: 7700
+Y: 1541
+Z: 0
+Color: 1
+//
+Name: Mina
+X: 8900
+Y: 3200
+Z: 0
+//
+Name: Mina
+X: 8700
+Y: 3400
+Z: 0
+//
+Name: Mina
+X: 8900
+Y: 3600
+Z: 0
+//
+Name: Mina
+X: 9100
+Y: 4000
+Z: 0
+//
+Name: Mina
+X: 8500
+Y: 3800
+Z: 0
+//
+Name: Mina
+X: 8700
+Y: 1900
+Z: 0
+//
+Name: Mina
+X: 9100
+Y: 1700
+Z: 0
+//
+Name: Mina
+X: 8900
+Y: 1300
+Z: 0
+//
+Name: Mina
+X: 8500
+Y: 1100
+Z: 0
+//
+Name: Mina
+X: 8700
+Y: 1500
+Z: 0
+//
+Name: hint
+X: 8800
+Y: 2600
+Z: 5
+Width: 300
+Height: 500
+Hint: 4
+//
+Name: key_4
+X: 7900
+Y: 4100
+Z: 0
+Color: 6
+Opened: 0
+Protect: 0
+//
+Name: key_2
+X: 7900
+Y: 900
+Z: 0
+Color: 6
+Opened: 0
+Protect: 0
+//
+Name: key_3
+X: 9100
+Y: 2850
+Z: 0
+Color: 6
+Opened: 0
+Protect: 0
+//
+Name: key_3
+X: 9100
+Y: 2050
+Z: 0
+Color: 6
+Opened: 0
+Protect: 0
+//
+Name: door2
+X: 9200
+Y: 2441
+Z: 0
+Color: 6
+Count: 4
+//
+Name: border_03
+X: 9500
+Y: 4200
+Z: -1
+//
+Name: border_03
+X: 9500
+Y: 4500
+Z: -1
+//
+Name: border_03
+X: 9500
+Y: 4800
+Z: -1
+//
+Name: border_03
+X: 9500
+Y: 5000
+Z: -1
+//
+Name: border_03
+X: 9500
+Y: 700
+Z: -1
+//
+Name: border_03
+X: 9500
+Y: 400
+Z: -1
+//
+Name: border_03
+X: 9500
+Y: 200
+Z: -1
+//
+Name: border_03
+X: 9500
+Y: 0
+Z: -1
+//
+Name: border_04
+X: 9300
+Y: 700
+Z: -1
+//
+Name: border_02
+X: 9300
+Y: 300
+Z: -1
+//
+Name: border_02
+X: 9300
+Y: 4300
+Z: -1
+//
+Name: border_04
+X: 9300
+Y: 4700
+Z: -1
+//
+Name: fx_light1
+X: 8500
+Y: 3200
+Z: -1
+Color: 0
+Animated: 0
+//
+Name: fx_light1
+X: 8500
+Y: 1000
+Z: -1
+Color: 0
+Animated: 0
+//
+Name: fx_light4
+X: 9000
+Y: 4120
+Z: 10
+Color: 2
+Animated: 0
+//
+Name: fx_light6
+X: 9000
+Y: 800
+Z: 10
+Color: 2
+Animated: 0
+//
+Name: xarrow0
+X: 7800
+Y: 2550
+Z: 0
+Angle: 0
+//
+Name: border_03
+X: 7400
+Y: 500
+Z: -1
+//
+Name: border_02
+X: 7800
+Y: 300
+Z: -1
+//
+Name: border_02
+X: 7600
+Y: 300
+Z: -1
+//
+Name: border_04
+X: 7800
+Y: 4700
+Z: -1
+//
+Name: border_04
+X: 7600
+Y: 4700
+Z: -1
+//
+Name: border_03
+X: 7400
+Y: 4400
+Z: -1
+//
+Name: f_corner_03
+X: 7400
+Y: 4700
+Z: -1
+//
+Name: f_corner_02
+X: 7400
+Y: 300
+Z: -1
+//
+Name: tile2
+X: 7600
+Y: 4400
+Z: -1
+//
+Name: tile2
+X: 7900
+Y: 4400
+Z: -1
+//
+Name: tile2
+X: 7600
+Y: 500
+Z: -1
+//
+Name: tile2
+X: 7900
+Y: 500
+Z: -1
+//
+Name: tile2
+X: 9600
+Y: 1700
+Z: -1
+//
+Name: tile2
+X: 9600
+Y: 1400
+Z: -1
+//
+Name: tile2
+X: 9600
+Y: 3200
+Z: -1
+//
+Name: tile2
+X: 9600
+Y: 3500
+Z: -1
+//
+Name: tile2
+X: 8800
+Y: 4500
+Z: -1
+//
+Name: tile2
+X: 9100
+Y: 4400
+Z: -1
+//
+Name: tile2
+X: 9300
+Y: 4400
+Z: -1
+//
+Name: tile2
+X: 8800
+Y: 500
+Z: -1
+//
+Name: tile2
+X: 9100
+Y: 500
+Z: -1
+//
+Name: tile2
+X: 9300
+Y: 400
+Z: -1
+//
+Name: save
+X: 9400
+Y: 2570
+Z: 5
+//
+Name: lamp1
+X: 9235
+Y: 4320
+Z: 0
+Angle: 270
+Color: 0
+//
+Name: lamp1
+X: 9235
+Y: 835
+Z: 0
+Angle: 90
+Color: 0
+//
+Name: event
+X: 7600
+Y: 2600
+Z: 5
+Width: 300
+Height: 500
+Event: 159
+Count: 1
+//
+Name: border_01
+X: 9900
+Y: 0
+Z: -1
+//
+Name: border_01
+X: 9900
+Y: 300
+Z: -1
+//
+Name: border_01
+X: 9900
+Y: 600
+Z: -1
+//
+Name: d_corner_02
+X: 9800
+Y: 3500
+Z: -1
+//
+Name: d_corner_04
+X: 9800
+Y: 1400
+Z: -1
+//
+Name: d_corner_01
+X: 10100
+Y: 4200
+Z: -1
+//
+Name: d_corner_03
+X: 10100
+Y: 3900
+Z: -1
+//
+Name: border_01
+X: 9900
+Y: 4100
+Z: -1
+//
+Name: border_01
+X: 9900
+Y: 4400
+Z: -1
+//
+Name: border_01
+X: 9900
+Y: 4700
+Z: -1
+//
+Name: d_corner_04
+X: 9900
+Y: 3900
+Z: -1
+//
+Name: d_corner_01
+X: 10100
+Y: 1000
+Z: -1
+//
+Name: d_corner_03
+X: 10100
+Y: 700
+Z: -1
+//
+Name: d_corner_02
+X: 9900
+Y: 1000
+Z: -1
+//
+Name: border_01
+X: 9900
+Y: 800
+Z: -1
+//
+Name: border_01
+X: 9900
+Y: 5000
+Z: -1
+//
+Name: border_02
+X: 10000
+Y: 4300
+Z: -1
+//
+Name: border_04
+X: 10000
+Y: 700
+Z: -1
+//
+Name: border_02
+X: 10000
+Y: 300
+Z: -1
+//
+Name: border_02
+X: 10100
+Y: 3600
+Z: -1
+//
+Name: border_04
+X: 10100
+Y: 1400
+Z: -1
+//
+Name: corner_04
+X: 10400
+Y: 1400
+Z: -1
+//
+Name: border_01
+X: 10400
+Y: 1100
+Z: -1
+//
+Name: border_01
+X: 10400
+Y: 800
+Z: -1
+//
+Name: border_01
+X: 10400
+Y: 500
+Z: -1
+//
+Name: border_02
+X: 10100
+Y: 300
+Z: -1
+//
+Name: border_04
+X: 10000
+Y: 4700
+Z: -1
+//
+Name: border_04
+X: 10100
+Y: 4700
+Z: -1
+//
+Name: border_01
+X: 10400
+Y: 4400
+Z: -1
+//
+Name: border_01
+X: 10400
+Y: 4100
+Z: -1
+//
+Name: border_01
+X: 10400
+Y: 3800
+Z: -1
+//
+Name: corner_01
+X: 10400
+Y: 3600
+Z: -1
+//
+Name: f_corner_04
+X: 10400
+Y: 4700
+Z: -1
+//
+Name: f_corner_01
+X: 10400
+Y: 300
+Z: -1
+//
+Name: tile2
+X: 10200
+Y: 4400
+Z: -1
+//
+Name: tile2
+X: 9700
+Y: 5000
+Z: -1
+//
+Name: tile2
+X: 9700
+Y: 4700
+Z: -1
+//
+Name: tile2
+X: 9900
+Y: 4400
+Z: -1
+//
+Name: tile2
+X: 9600
+Y: 4400
+Z: -1
+//
+Name: tile2
+X: 9600
+Y: 4100
+Z: -1
+//
+Name: tile2
+X: 9700
+Y: 3800
+Z: -1
+//
+Name: tile2
+X: 9900
+Y: 3700
+Z: -1
+//
+Name: tile2
+X: 10200
+Y: 3700
+Z: -1
+//
+Name: tile2
+X: 10100
+Y: 1200
+Z: -1
+//
+Name: tile2
+X: 9900
+Y: 1200
+Z: -1
+//
+Name: tile2
+X: 10200
+Y: 500
+Z: -1
+//
+Name: tile2
+X: 10000
+Y: 400
+Z: -1
+//
+Name: tile2
+X: 9700
+Y: 1100
+Z: -1
+//
+Name: tile2
+X: 9700
+Y: 800
+Z: -1
+//
+Name: tile2
+X: 9600
+Y: 500
+Z: -1
+//
+Name: tile2
+X: 9600
+Y: 200
+Z: -1
+//
+Name: tile2
+X: 9700
+Y: 0
+Z: -1
+//
+Name: border_02
+X: 10500
+Y: 3900
+Z: -1
+//
+Name: border_02
+X: 10800
+Y: 3900
+Z: -1
+//
+Name: border_04
+X: 10500
+Y: 1100
+Z: -1
+//
+Name: border_04
+X: 10800
+Y: 1100
+Z: -1
+//
+Name: border_04
+X: 11100
+Y: 1100
+Z: -1
+//
+Name: border_02
+X: 11100
+Y: 3900
+Z: -1
+//
+Name: border_04
+X: 10500
+Y: 4400
+Z: -1
+//
+Name: border_04
+X: 10800
+Y: 4400
+Z: -1
+//
+Name: border_04
+X: 11100
+Y: 4400
+Z: -1
+//
+Name: border_02
+X: 10500
+Y: 600
+Z: -1
+//
+Name: border_02
+X: 10800
+Y: 600
+Z: -1
+//
+Name: border_02
+X: 11100
+Y: 600
+Z: -1
+//
+Name: border_03
+X: 11600
+Y: 4400
+Z: -1
+//
+Name: border_03
+X: 11600
+Y: 4100
+Z: -1
+//
+Name: border_03
+X: 11600
+Y: 3800
+Z: -1
+//
+Name: border_03
+X: 11600
+Y: 1100
+Z: -1
+//
+Name: border_03
+X: 11600
+Y: 800
+Z: -1
+//
+Name: border_03
+X: 11600
+Y: 500
+Z: -1
+//
+Name: border_02
+X: 11400
+Y: 600
+Z: -1
+//
+Name: border_02
+X: 11400
+Y: 3900
+Z: -1
+//
+Name: border_04
+X: 11400
+Y: 4400
+Z: -1
+//
+Name: border_04
+X: 11400
+Y: 1100
+Z: -1
+//
+Name: border_04
+X: 11400
+Y: 4000
+Z: -1
+//
+Name: border_04
+X: 11100
+Y: 4000
+Z: -1
+//
+Name: border_04
+X: 10800
+Y: 4000
+Z: -1
+//
+Name: border_04
+X: 10500
+Y: 4000
+Z: -1
+//
+Name: border_04
+X: 10500
+Y: 700
+Z: -1
+//
+Name: border_04
+X: 10800
+Y: 700
+Z: -1
+//
+Name: border_04
+X: 11100
+Y: 700
+Z: -1
+//
+Name: border_04
+X: 11400
+Y: 700
+Z: -1
+//
+Name: border_02
+X: 10500
+Y: 1000
+Z: -1
+//
+Name: border_02
+X: 10800
+Y: 1000
+Z: -1
+//
+Name: border_02
+X: 11100
+Y: 1000
+Z: -1
+//
+Name: border_02
+X: 11400
+Y: 1000
+Z: -1
+//
+Name: border_02
+X: 11800
+Y: 300
+Z: -1
+//
+Name: border_04
+X: 11800
+Y: 1400
+Z: -1
+//
+Name: border_04
+X: 11800
+Y: 4700
+Z: -1
+//
+Name: border_04
+X: 12100
+Y: 4700
+Z: -1
+//
+Name: border_04
+X: 12100
+Y: 1400
+Z: -1
+//
+Name: border_02
+X: 12100
+Y: 300
+Z: -1
+//
+Name: border_02
+X: 11800
+Y: 3600
+Z: -1
+//
+Name: border_02
+X: 12100
+Y: 3600
+Z: -1
+//
+Name: border_02
+X: 10500
+Y: 4300
+Z: -1
+//
+Name: border_02
+X: 10800
+Y: 4300
+Z: -1
+//
+Name: border_02
+X: 11100
+Y: 4300
+Z: -1
+//
+Name: border_02
+X: 11400
+Y: 4300
+Z: -1
+//
+Name: border_01
+X: 12400
+Y: 500
+Z: -1
+//
+Name: border_01
+X: 12400
+Y: 4400
+Z: -1
+//
+Name: f_corner_03
+X: 11600
+Y: 4700
+Z: -1
+//
+Name: f_corner_03
+X: 11600
+Y: 1400
+Z: -1
+//
+Name: f_corner_02
+X: 11600
+Y: 300
+Z: -1
+//
+Name: f_corner_02
+X: 11600
+Y: 3600
+Z: -1
+//
+Name: f_corner_04
+X: 12400
+Y: 4700
+Z: -1
+//
+Name: f_corner_01
+X: 12400
+Y: 300
+Z: -1
+//
+Name: border_03
+X: 10400
+Y: 2600
+Z: -1
+//
+Name: border_03
+X: 10400
+Y: 2300
+Z: -1
+//
+Name: Mina
+X: 9800
+Y: 2200
+Z: 0
+//
+Name: Mina
+X: 10000
+Y: 2500
+Z: 0
+//
+Name: Mina
+X: 10100
+Y: 2700
+Z: 0
+//
+Name: Mina
+X: 10100
+Y: 3000
+Z: 0
+//
+Name: Mina
+X: 9900
+Y: 2800
+Z: 0
+//
+Name: Mina
+X: 10200
+Y: 2200
+Z: 0
+//
+Name: f_corner_03
+X: 10400
+Y: 2900
+Z: -1
+//
+Name: f_corner_02
+X: 10400
+Y: 2100
+Z: -1
+//
+Name: u_border_01
+X: 10400
+Y: 2450
+Z: 0
+Color: 1
+//
+Name: wMina4
+X: 10410
+Y: 2300
+Z: 0
+//
+Name: wMina4
+X: 10410
+Y: 2800
+Z: 0
+//
+Name: wMina2
+X: 9945
+Y: 1600
+Z: 0
+//
+Name: wMina2
+X: 9945
+Y: 1700
+Z: 0
+//
+Name: wMina2
+X: 9945
+Y: 1800
+Z: 0
+//
+Name: wMina2
+X: 9945
+Y: 3300
+Z: 0
+//
+Name: wMina2
+X: 9945
+Y: 3400
+Z: 0
+//
+Name: wMina2
+X: 9945
+Y: 3500
+Z: 0
+//
+Name: Fon2
+X: 10500
+Y: 2900
+Z: -5
+mirrorX: 1
+mirrorY: 0
+//
+Name: Fon2
+X: 10500
+Y: 3200
+Z: -5
+mirrorX: 1
+mirrorY: 0
+//
+Name: Fon2
+X: 10500
+Y: 3500
+Z: -5
+mirrorX: 1
+mirrorY: 0
+//
+Name: Fon2
+X: 10500
+Y: 2000
+Z: -5
+mirrorX: 1
+mirrorY: 0
+//
+Name: Fon2
+X: 10500
+Y: 1700
+Z: -5
+mirrorX: 1
+mirrorY: 0
+//
+Name: Fon2
+X: 10500
+Y: 1400
+Z: -5
+mirrorX: 1
+mirrorY: 0
+//
+Name: d_corner_02
+X: 10600
+Y: 2600
+Z: -1
+//
+Name: d_corner_04
+X: 10600
+Y: 2300
+Z: -1
+//
+Name: d_corner_01
+X: 10900
+Y: 2600
+Z: -1
+//
+Name: d_corner_03
+X: 10900
+Y: 2300
+Z: -1
+//
+Name: border_04
+X: 10600
+Y: 2900
+Z: -1
+//
+Name: border_04
+X: 10900
+Y: 2900
+Z: -1
+//
+Name: border_02
+X: 10600
+Y: 2100
+Z: -1
+//
+Name: border_02
+X: 10900
+Y: 2100
+Z: -1
+//
+Name: border_01
+X: 11200
+Y: 2300
+Z: -1
+//
+Name: border_01
+X: 11200
+Y: 2600
+Z: -1
+//
+Name: f_corner_04
+X: 11200
+Y: 2900
+Z: -1
+//
+Name: f_corner_01
+X: 11200
+Y: 2100
+Z: -1
+//
+Name: d_corner_04
+X: 12400
+Y: 4100
+Z: -1
+//
+Name: d_corner_02
+X: 12400
+Y: 800
+Z: -1
+//
+Name: border_02
+X: 12400
+Y: 3600
+Z: -1
+//
+Name: border_04
+X: 12400
+Y: 1400
+Z: -1
+//
+Name: Fon2
+X: 10500
+Y: 3800
+Z: -5
+mirrorX: 1
+mirrorY: 0
+//
+Name: Fon2
+X: 10500
+Y: 1100
+Z: -5
+mirrorX: 1
+mirrorY: 0
+//
+Name: Fon1
+X: 10600
+Y: 3400
+Z: -5
+//
+Name: Fon1
+X: 10600
+Y: 2800
+Z: -5
+//
+Name: Fon1
+X: 11200
+Y: 3400
+Z: -5
+//
+Name: Fon1
+X: 11200
+Y: 2800
+Z: -5
+//
+Name: Fon1
+X: 10600
+Y: 1600
+Z: -5
+//
+Name: Fon1
+X: 10600
+Y: 1200
+Z: -5
+//
+Name: Fon1
+X: 11200
+Y: 1200
+Z: -5
+//
+Name: Fon1
+X: 11200
+Y: 1800
+Z: -5
+//
+Name: Fon1
+X: 11300
+Y: 2300
+Z: -5
+//
+Name: Fon1
+X: 11900
+Y: 2300
+Z: -5
+//
+Name: Fon1
+X: 11800
+Y: 3100
+Z: -5
+//
+Name: Fon1
+X: 11800
+Y: 2700
+Z: -5
+//
+Name: Fon1
+X: 11800
+Y: 1800
+Z: -5
+//
+Name: Fon1
+X: 11800
+Y: 1500
+Z: -5
+//
+Name: Fon1
+X: 12400
+Y: 3100
+Z: -5
+//
+Name: Fon1
+X: 12400
+Y: 2500
+Z: -5
+//
+Name: Fon1
+X: 12400
+Y: 1900
+Z: -5
+//
+Name: Fon1
+X: 12400
+Y: 1500
+Z: -5
+//
+Name: turrel2
+X: 10600
+Y: 3841
+Z: 0
+Color: 1
+//
+Name: turrel2
+X: 10800
+Y: 3841
+Z: 0
+Color: 1
+//
+Name: turrel2
+X: 11000
+Y: 3841
+Z: 0
+Color: 1
+//
+Name: turrel2
+X: 11200
+Y: 3841
+Z: 0
+Color: 1
+//
+Name: turrel4
+X: 10700
+Y: 3035
+Z: 0
+Color: 1
+//
+Name: turrel4
+X: 10900
+Y: 3035
+Z: 0
+Color: 1
+//
+Name: turrel4
+X: 11100
+Y: 3035
+Z: 0
+Color: 1
+//
+Name: turrel2
+X: 10700
+Y: 2041
+Z: 0
+Color: 1
+//
+Name: turrel2
+X: 10900
+Y: 2041
+Z: 0
+Color: 1
+//
+Name: turrel2
+X: 11100
+Y: 2041
+Z: 0
+Color: 1
+//
+Name: turrel4
+X: 10600
+Y: 1235
+Z: 0
+Color: 1
+//
+Name: turrel4
+X: 10800
+Y: 1235
+Z: 0
+Color: 1
+//
+Name: turrel4
+X: 11000
+Y: 1235
+Z: 0
+Color: 1
+//
+Name: turrel4
+X: 11200
+Y: 1235
+Z: 0
+Color: 1
+//
+Name: f_corner_01
+X: 12700
+Y: 900
+Z: -1
+//
+Name: f_corner_04
+X: 12700
+Y: 1400
+Z: -1
+//
+Name: f_corner_04
+X: 12700
+Y: 4100
+Z: -1
+//
+Name: f_corner_01
+X: 12700
+Y: 3600
+Z: -1
+//
+Name: border_01
+X: 12700
+Y: 3800
+Z: -1
+//
+Name: border_01
+X: 12700
+Y: 1100
+Z: -1
+//
+Name: border_03
+X: 12600
+Y: 3400
+Z: -1
+//
+Name: border_03
+X: 12600
+Y: 1500
+Z: -1
+//
+Name: border_03
+X: 12600
+Y: 1800
+Z: -1
+//
+Name: border_03
+X: 12600
+Y: 3100
+Z: -1
+//
+Name: border_02
+X: 12800
+Y: 2900
+Z: -1
+//
+Name: border_04
+X: 12800
+Y: 2100
+Z: -1
+//
+Name: f_corner_03
+X: 12600
+Y: 2100
+Z: -1
+//
+Name: f_corner_02
+X: 12600
+Y: 2900
+Z: -1
+//
+Name: corner_03
+X: 12500
+Y: 3100
+Z: -1
+//
+Name: corner_02
+X: 12500
+Y: 1900
+Z: -1
+//
+Name: border_03
+X: 12500
+Y: 2100
+Z: -1
+//
+Name: border_03
+X: 12500
+Y: 2800
+Z: -1
+//
+Name: fx_light2
+X: 11000
+Y: 1500
+Z: -2
+Color: 0
+Animated: 0
+//
+Name: border_02
+X: 12700
+Y: 2700
+Z: -1
+//
+Name: border_04
+X: 12700
+Y: 2300
+Z: -1
+//
+Name: corner_02
+X: 12500
+Y: 2700
+Z: -1
+//
+Name: corner_03
+X: 12500
+Y: 2300
+Z: -1
+//
+Name: tile1
+X: 12700
+Y: 2900
+Z: -1
+//
+Name: tile1
+X: 12700
+Y: 2000
+Z: -1
+//
+Name: tile1
+X: 12800
+Y: 1800
+Z: -1
+//
+Name: tile1
+X: 12800
+Y: 1500
+Z: -1
+//
+Name: tile1
+X: 12800
+Y: 3100
+Z: -1
+//
+Name: tile1
+X: 12800
+Y: 3400
+Z: -1
+//
+Name: tile1
+X: 12100
+Y: 4400
+Z: -1
+//
+Name: tile1
+X: 11800
+Y: 4100
+Z: -1
+//
+Name: tile1
+X: 12100
+Y: 500
+Z: -1
+//
+Name: tile1
+X: 11800
+Y: 800
+Z: -1
+//
+Name: tile3
+X: 12100
+Y: 1100
+Z: -1
+//
+Name: tile3
+X: 11800
+Y: 500
+Z: -1
+//
+Name: tile3
+X: 12100
+Y: 4100
+Z: -1
+//
+Name: tile3
+X: 11800
+Y: 4400
+Z: -1
+//
+Name: tile3
+X: 11800
+Y: 3800
+Z: -1
+//
+Name: tile2
+X: 12100
+Y: 3800
+Z: -1
+//
+Name: tile2
+X: 12400
+Y: 3800
+Z: -1
+//
+Name: tile2
+X: 12400
+Y: 1100
+Z: -1
+//
+Name: tile2
+X: 12100
+Y: 800
+Z: -1
+//
+Name: tile2
+X: 11800
+Y: 1100
+Z: -1
+//
+Name: tile2
+X: 12700
+Y: 1200
+Z: -1
+//
+Name: tile2
+X: 12700
+Y: 3700
+Z: -1
+//
+Name: turrel5
+X: 12539
+Y: 3300
+Z: 0
+Color: 1
+//
+Name: turrel5
+X: 12539
+Y: 3500
+Z: 0
+Color: 1
+//
+Name: turrel5
+X: 12539
+Y: 3400
+Z: 0
+Color: 1
+//
+Name: turrel5
+X: 12539
+Y: 1600
+Z: 0
+Color: 1
+//
+Name: turrel5
+X: 12539
+Y: 1700
+Z: 0
+Color: 1
+//
+Name: turrel5
+X: 12539
+Y: 1800
+Z: 0
+Color: 1
+//
+Name: key_2
+X: 12000
+Y: 1400
+Z: 0
+Color: 4
+Opened: 0
+Protect: 0
+//
+Name: key_4
+X: 12000
+Y: 3600
+Z: 0
+Color: 4
+Opened: 0
+Protect: 0
+//
+Name: key_1
+X: 11200
+Y: 2450
+Z: 0
+Color: 4
+Opened: 0
+Protect: 0
+//
+Name: border_02
+X: 12700
+Y: 1000
+Z: -1
+//
+Name: border_02
+X: 13000
+Y: 1000
+Z: -1
+//
+Name: border_04
+X: 12700
+Y: 4000
+Z: -1
+//
+Name: border_04
+X: 13000
+Y: 4000
+Z: -1
+//
+Name: border_01
+X: 13100
+Y: 3100
+Z: -1
+//
+Name: border_01
+X: 13100
+Y: 3400
+Z: -1
+//
+Name: border_01
+X: 13100
+Y: 1800
+Z: -1
+//
+Name: border_01
+X: 13100
+Y: 1500
+Z: -1
+//
+Name: f_corner_01
+X: 13100
+Y: 2900
+Z: -1
+//
+Name: f_corner_04
+X: 13100
+Y: 2100
+Z: -1
+//
+Name: corner_04
+X: 13000
+Y: 2300
+Z: -1
+//
+Name: corner_01
+X: 13000
+Y: 2700
+Z: -1
+//
+Name: border_01
+X: 13000
+Y: 2900
+Z: -1
+//
+Name: border_01
+X: 13000
+Y: 2000
+Z: -1
+//
+Name: border_02
+X: 13200
+Y: 3300
+Z: -1
+//
+Name: border_02
+X: 13500
+Y: 3300
+Z: -1
+//
+Name: border_04
+X: 13200
+Y: 1700
+Z: -1
+//
+Name: border_04
+X: 13500
+Y: 1700
+Z: -1
+//
+Name: d_corner_04
+X: 13100
+Y: 1200
+Z: -1
+//
+Name: d_corner_02
+X: 13100
+Y: 3700
+Z: -1
+//
+Name: border_02
+X: 13800
+Y: 3300
+Z: -1
+//
+Name: border_04
+X: 13200
+Y: 3500
+Z: -1
+//
+Name: border_04
+X: 13500
+Y: 3500
+Z: -1
+//
+Name: border_04
+X: 13800
+Y: 3500
+Z: -1
+//
+Name: border_04
+X: 13300
+Y: 4000
+Z: -1
+//
+Name: border_02
+X: 13400
+Y: 3800
+Z: -1
+//
+Name: border_02
+X: 13700
+Y: 3800
+Z: -1
+//
+Name: border_02
+X: 13800
+Y: 3800
+Z: -1
+//
+Name: border_04
+X: 13600
+Y: 4000
+Z: -1
+//
+Name: border_04
+X: 13800
+Y: 4000
+Z: -1
+//
+Name: border_04
+X: 13400
+Y: 1200
+Z: -1
+//
+Name: border_04
+X: 13700
+Y: 1200
+Z: -1
+//
+Name: border_04
+X: 13800
+Y: 1700
+Z: -1
+//
+Name: border_04
+X: 13800
+Y: 1200
+Z: -1
+//
+Name: border_02
+X: 13300
+Y: 1000
+Z: -1
+//
+Name: border_02
+X: 13600
+Y: 1000
+Z: -1
+//
+Name: border_02
+X: 13800
+Y: 1000
+Z: -1
+//
+Name: border_02
+X: 13200
+Y: 1500
+Z: -1
+//
+Name: border_02
+X: 13500
+Y: 1500
+Z: -1
+//
+Name: border_02
+X: 13800
+Y: 1500
+Z: -1
+//
+Name: tile1
+X: 12800
+Y: 3700
+Z: -1
+//
+Name: tile1
+X: 12800
+Y: 1200
+Z: -1
+//
+Name: Fon1
+X: 13000
+Y: 2300
+Z: -5
+//
+Name: Fon1
+X: 13100
+Y: 1700
+Z: -5
+//
+Name: Fon1
+X: 13100
+Y: 2900
+Z: -5
+//
+Name: Fon1
+X: 13600
+Y: 2300
+Z: -5
+//
+Name: Fon1
+X: 13600
+Y: 1700
+Z: -5
+//
+Name: Fon1
+X: 13600
+Y: 2900
+Z: -5
+//
+Name: fx_light2
+X: 13100
+Y: 1600
+Z: -1
+Color: 6
+Animated: 0
+//
+Name: end
+X: 13900
+Y: 2630
+Z: 5
+Width: 500
+Height: 1000
+//
+Name: xarrow3
+X: 12600
+Y: 2300
+Z: 0
+Angle: 0
+//
+Name: Mina
+X: 12100
+Y: 2100
+Z: 0
+//
+Name: Mina
+X: 11700
+Y: 2300
+Z: 0
+//
+Name: Mina
+X: 11900
+Y: 2700
+Z: 0
+//
+Name: Mina
+X: 12000
+Y: 3000
+Z: 0
+//
+Name: Mina
+X: 11600
+Y: 3100
+Z: 0
+//
+Name: Mina
+X: 12200
+Y: 2600
+Z: 0
+//
+Name: xarrow1
+X: 10500
+Y: 2280
+Z: 0
+Angle: 0
+//
+Name: xarrow3
+X: 12600
+Y: 2780
+Z: 0
+Angle: 0
+//
+Name: xarrow2
+X: 10500
+Y: 2800
+Z: 0
+Angle: 180
+//
+Name: door2
+X: 12700
+Y: 2441
+Z: 0
+Color: 4
+Count: 3
+//
+Name: xarrow3
+X: 10200
+Y: 1400
+Z: 0
+Angle: 0
+//
+Name: xarrow3
+X: 10200
+Y: 3670
+Z: 0
+Angle: 0
+//
+Name: Fon1
+X: 8600
+Y: 3500
+Z: -5

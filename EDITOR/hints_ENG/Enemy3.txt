@@ -1,0 +1,5 @@
+Enemy: Standard rebel ship
+Medium size ship. Have the same
+colours of vulnerability and weapons
+
+Color /Integer 1..7/ - colour

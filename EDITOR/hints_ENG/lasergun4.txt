@@ -1,0 +1,7 @@
+Source of laser beam
+
+
+
+Color /Integer 1..7/  - colour
+Button - число 0..1 - can't/can be switched
+         with laserbuttons
